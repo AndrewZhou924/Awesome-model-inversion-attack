@@ -21,6 +21,7 @@ CCS 2015 - Model Inversion Attacks that Exploit Confidence Information and Basic
 [[code1]](http://www.cs.cmu.edu/~mfredrik/mi-2016.zip)
 [[code2]](https://github.com/yashkant/Model-Inversion-Attack)
 [[code3]](https://github.com/zhangzp9970/MIA)
+[[code4]](https://github.com/sarahsimionescu/simple-model-inversion)
 
 CSF 2016 - A Methodology for Formalizing Model-Inversion Attacks.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7536387&casa_token=ClIVAMYo6dcAAAAA:u75HHyFHj5lBRec9h5SqOZyAsL2dICcWIuQPCj6ltk8McREFCaM4ex42mv3S-oNPiGJLDfUqg0qL)
@@ -54,6 +55,10 @@ ICCV 2021 - Knowledge-Enriched Distributional Model Inversion Attacks.
 AAAI 2021 - Improving Robustness to Model Inversion Attacks via Mutual Information Regularization.
 [[paper]](https://arxiv.org/pdf/2009.05241.pdf)
 
+ICML 2022 - Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks.
+[[paper]](https://arxiv.org/pdf/2201.12179.pdf)
+[[code]](https://github.com/LukasStruppek/Plug-and-Play-Attacks)
+
 CVPR 2022 - Label-Only Model Inversion Attacks via Boundary Repulsion.
 [[paper]](https://arxiv.org/pdf/2203.01925.pdf)
 [[code]](https://github.com/m-kahla/Label-Only-Model-Inversion-Attacks-via-Boundary-Repulsion)
@@ -66,9 +71,10 @@ USENIX Security 2022 - ML-DOCTOR: Holistic Risk Assessment of Inference Attacks 
 [[paper]](https://www.usenix.org/system/files/sec22summer_liu-yugeng.pdf)
 [[code]](https://github.com/liuyugeng/ML-Doctor)
 
-Arxiv 2022 - Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks.
-[[paper]](https://arxiv.org/pdf/2201.12179.pdf)
-[[code]](https://github.com/LukasStruppek/Plug-and-Play-Attacks)
+IEEE 2022 - An Approximate Memory based Defense against Model Inversion Attacks to Neural Networks.
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9792582&casa_token=ymT57RhNhGEAAAAA:WsQHMpv77-4uyIp7l-p4hc7_Qmxvn5TeNpS5F7LHBFHyLay2O8Pe5eWqsKN2fu56v98NZsRrqeit)
+[[code]](https://github.com/katekemu/model_inversion_defense)
+
 
 ### Graph Learning
 
@@ -89,6 +95,10 @@ USENIX Security 2022 - Inference Attacks Against Graph Neural Networks
 [[paper]](https://www.usenix.org/system/files/sec22summer_zhang-zhikun.pdf)
 [[code]](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)
 
+IEEE S&P 2022 - Model Stealing Attacks Against Inductive Graph Neural Networks.
+[[paper]](https://arxiv.org/pdf/2112.08331.pdf)
+[[code]](https://github.com/xinleihe/GNNStealing)
+
 Arxiv 2022 - DIFFERENTIALLY PRIVATE GRAPH CLASSIFICATION WITH GNNS.
 [[paper]](https://arxiv.org/pdf/2202.02575.pdf)
 
@@ -103,6 +113,14 @@ Arxiv 2022 - Degree-Preserving Randomized Response for Graph Neural Networks und
 
 Arxiv 2022 - Private Graph Extraction via Feature Explanations.
 [[paper]](https://arxiv.org/pdf/2206.14724.pdf)
+
+### Tools
+[AIJack](https://github.com/Koukyosyumei/AIJack): Implementation of algorithms for AI security.
+
+[Privacy-Attacks-in-Machine-Learning](https://github.com/shrebox/Privacy-Attacks-in-Machine-Learning): Membership Inference, Attribute Inference and Model Inversion attacks implemented using PyTorch.
+
+[ml-attack-framework](https://github.com/Pilladian/ml-attack-framework): Universität des Saarlandes - Privacy Enhancing Technologies 2021 - Semester Project.
+
 
 ### Others
 2021 - ML and DP.
