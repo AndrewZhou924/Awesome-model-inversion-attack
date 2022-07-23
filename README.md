@@ -25,13 +25,20 @@ CCS 2015 - Model Inversion Attacks that Exploit Confidence Information and Basic
 CSF 2016 - A Methodology for Formalizing Model-Inversion Attacks.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7536387&casa_token=ClIVAMYo6dcAAAAA:u75HHyFHj5lBRec9h5SqOZyAsL2dICcWIuQPCj6ltk8McREFCaM4ex42mv3S-oNPiGJLDfUqg0qL)
 
-2020 - Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment.
-[[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3354261?casa_token=J81Ps-ZWXHkAAAAA:FYnXo7DQoHpdhqns8x2TclKFeHpAQlXVxMBW2hTrhJ5c20XKdsounqdT1Viw1g6Xsu9FtKj85elxQaA)
-[[code]](https://github.com/zhangzp9970/TB-MIA)
+Arxiv 2019 - Adversarial Neural Network Inversion via Auxiliary Knowledge Alignment.
+[[paper]](https://arxiv.org/pdf/1902.08552.pdf)
 
 CVPR 2020 - The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks.
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pdf)
 [[code]](https://github.com/AI-secure/GMI-Attack)
+
+APSIPA ASC 2020 - Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator.
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9306253&casa_token=AWugOvIe0I0AAAAA:9wICCkMcfoljMqooM-lgl8m-6F6-cEl-ClHgNkE1SV8mZwqvBIaJ1HDjT1RWLyBz_P7tdB51jQVL&tag=1)
+
+Arxiv 2020 - Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment.
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3354261?casa_token=J81Ps-ZWXHkAAAAA:FYnXo7DQoHpdhqns8x2TclKFeHpAQlXVxMBW2hTrhJ5c20XKdsounqdT1Viw1g6Xsu9FtKj85elxQaA)
+[[code]](https://github.com/zhangzp9970/TB-MIA)
+
 
 NeurIPS 2021 - Variational Model Inversion Attacks.
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/50a074e6a8da4662ae0a29edde722179-Paper.pdf)
@@ -49,7 +56,7 @@ AAAI 2021 - Improving Robustness to Model Inversion Attacks via Mutual Informati
 
 CVPR 2022 - Label-Only Model Inversion Attacks via Boundary Repulsion.
 [[paper]](https://arxiv.org/pdf/2203.01925.pdf)
-[[code]]()
+[[code]](https://github.com/m-kahla/Label-Only-Model-Inversion-Attacks-via-Boundary-Repulsion)
 
 KDD 2022 - Bilateral Dependency Optimization: Defending Against Model-inversion Attacks.
 [[paper]](https://arxiv.org/pdf/2206.05483.pdf)
@@ -59,6 +66,9 @@ USENIX Security 2022 - ML-DOCTOR: Holistic Risk Assessment of Inference Attacks 
 [[paper]](https://www.usenix.org/system/files/sec22summer_liu-yugeng.pdf)
 [[code]](https://github.com/liuyugeng/ML-Doctor)
 
+Arxiv 2022 - Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks.
+[[paper]](https://arxiv.org/pdf/2201.12179.pdf)
+[[code]](https://github.com/LukasStruppek/Plug-and-Play-Attacks)
 
 ### Graph Learning
 
@@ -94,6 +104,9 @@ Arxiv 2022 - Degree-Preserving Randomized Response for Graph Neural Networks und
 Arxiv 2022 - Private Graph Extraction via Feature Explanations.
 [[paper]](https://arxiv.org/pdf/2206.14724.pdf)
 
+### Others
+2021 - ML and DP.
+[[slides]](https://www.cs.toronto.edu/~toni/Courses/Fairness/Lectures/ML-and-DP-v2.pdf)
 
 <!--   [[paper]]()   -->
 <!--   [[code]]()   -->
