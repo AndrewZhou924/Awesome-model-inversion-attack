@@ -1,5 +1,10 @@
 # Awesome-model-inversion-attack
 
+### What is the model inversion attack?
+In model inversion attacks, a malicious user attempts to recover the private dataset used to train a supervised neural network. A successful model inversion attack should generate realistic and diverse samples that accurately describe each of the classes in the private dataset.
+
+(by Variational Model Inversion Attacks, Wang et al, 2021.)
+
 ### Survey
 Arxiv 2021 - A Survey of Privacy Attacks in Machine Learning.
 [[paper]](https://arxiv.org/pdf/2007.07646.pdf)
@@ -14,7 +19,10 @@ Arxiv 2022 - A Survey of Trustworthy Graph Learning: Reliability, Explainability
 [[paper]](https://arxiv.org/pdf/2205.10014.pdf)
 
 
-### Computer Vision
+### General domain (including the computer vision)
+
+USENIX Security 2014 - Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing.
+[[paper]](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-fredrikson-privacy.pdf)
 
 CCS 2015 - Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/2810103.2813677)
@@ -36,6 +44,7 @@ Arxiv 2019 - Adversarial Neural Network Inversion via Auxiliary Knowledge Alignm
 CVPR 2020 - The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks.
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pdf)
 [[code]](https://github.com/AI-secure/GMI-Attack)
+[[video]](https://www.youtube.com/watch?v=_g-oXYMhz4M)
 
 APSIPA ASC 2020 - Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9306253&casa_token=AWugOvIe0I0AAAAA:9wICCkMcfoljMqooM-lgl8m-6F6-cEl-ClHgNkE1SV8mZwqvBIaJ1HDjT1RWLyBz_P7tdB51jQVL&tag=1)
@@ -53,6 +62,11 @@ ICCV 2021 - Knowledge-Enriched Distributional Model Inversion Attacks.
 
 AAAI 2021 - Improving Robustness to Model Inversion Attacks via Mutual Information Regularization.
 [[paper]](https://arxiv.org/pdf/2009.05241.pdf)
+
+ICLR 2021 workshop - PRACTICAL DEFENCES AGAINST MODEL INVERSION ATTACKS FOR SPLIT NEURAL NETWORKS.
+[[paper]](https://arxiv.org/pdf/2104.05743.pdf)
+[[code]](https://github.com/TTitcombe/Model-Inversion-SplitNN)
+[[video]](https://crossminds.ai/video/practical-defences-against-model-inversion-attacks-for-split-neural-networks-60c3cee46af07cfaf7325850/)
 
 ICML 2022 - Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks.
 [[paper]](https://arxiv.org/pdf/2201.12179.pdf)
@@ -75,7 +89,7 @@ IEEE 2022 - An Approximate Memory based Defense against Model Inversion Attacks 
 [[code]](https://github.com/katekemu/model_inversion_defense)
 
 
-### Graph Learning
+### Graph learning domain
 
 USENIX Security 2020 - Stealing Links from Graph Neural Networks.
 [[paper]](https://www.usenix.org/system/files/sec21-he-xinlei.pdf)
