@@ -1,5 +1,7 @@
 # Awesome-model-inversion-attack
 
+A curated list of resources for model inversion attack (MIA).
+
 ### What is the model inversion attack?
 In model inversion attacks, a malicious user attempts to recover the private dataset used to train a supervised neural network. A successful model inversion attack should generate realistic and diverse samples that accurately describe each of the classes in the private dataset.
 
@@ -138,6 +140,3 @@ Arxiv 2022 - Private Graph Extraction via Feature Explanations.
 ### Others
 2021 - ML and DP.
 [[slides]](https://www.cs.toronto.edu/~toni/Courses/Fairness/Lectures/ML-and-DP-v2.pdf)
-
-<!--   [[paper]]()   -->
-<!--   [[code]]()   -->
