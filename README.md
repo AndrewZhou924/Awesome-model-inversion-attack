@@ -26,6 +26,10 @@ CCS 2015 - Model Inversion Attacks that Exploit Confidence Information and Basic
 CSF 2016 - A Methodology for Formalizing Model-Inversion Attacks.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7536387&casa_token=ClIVAMYo6dcAAAAA:u75HHyFHj5lBRec9h5SqOZyAsL2dICcWIuQPCj6ltk8McREFCaM4ex42mv3S-oNPiGJLDfUqg0qL)
 
+CCS 2019 - Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment.
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3354261?casa_token=J81Ps-ZWXHkAAAAA:FYnXo7DQoHpdhqns8x2TclKFeHpAQlXVxMBW2hTrhJ5c20XKdsounqdT1Viw1g6Xsu9FtKj85elxQaA)
+[[code]](https://github.com/zhangzp9970/TB-MIA)
+
 Arxiv 2019 - Adversarial Neural Network Inversion via Auxiliary Knowledge Alignment.
 [[paper]](https://arxiv.org/pdf/1902.08552.pdf)
 
@@ -35,11 +39,6 @@ CVPR 2020 - The Secret Revealer: Generative Model-Inversion Attacks Against Deep
 
 APSIPA ASC 2020 - Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9306253&casa_token=AWugOvIe0I0AAAAA:9wICCkMcfoljMqooM-lgl8m-6F6-cEl-ClHgNkE1SV8mZwqvBIaJ1HDjT1RWLyBz_P7tdB51jQVL&tag=1)
-
-Arxiv 2020 - Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment.
-[[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3354261?casa_token=J81Ps-ZWXHkAAAAA:FYnXo7DQoHpdhqns8x2TclKFeHpAQlXVxMBW2hTrhJ5c20XKdsounqdT1Viw1g6Xsu9FtKj85elxQaA)
-[[code]](https://github.com/zhangzp9970/TB-MIA)
-
 
 NeurIPS 2021 - Variational Model Inversion Attacks.
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/50a074e6a8da4662ae0a29edde722179-Paper.pdf)
