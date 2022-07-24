@@ -51,6 +51,9 @@ CVPR 2020 - The Secret Revealer: Generative Model-Inversion Attacks Against Deep
 APSIPA ASC 2020 - Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9306253&casa_token=AWugOvIe0I0AAAAA:9wICCkMcfoljMqooM-lgl8m-6F6-cEl-ClHgNkE1SV8mZwqvBIaJ1HDjT1RWLyBz_P7tdB51jQVL&tag=1)
 
+CVPE 2021 - See through gradients: Image batch recovery via gradinversion
+[[paper]](http://openaccess.thecvf.com/content/CVPR2021/papers/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.pdf)
+
 NeurIPS 2021 - Variational Model Inversion Attacks.
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/50a074e6a8da4662ae0a29edde722179-Paper.pdf)
 [[code]](https://github.com/wangkua1/vmi)
@@ -128,6 +131,11 @@ Arxiv 2022 - Degree-Preserving Randomized Response for Graph Neural Networks und
 
 Arxiv 2022 - Private Graph Extraction via Feature Explanations.
 [[paper]](https://arxiv.org/pdf/2206.14724.pdf)
+
+### NLP domain
+
+USENIX Security 2021 - Extracting training data from large language models.
+[[paper]](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
 
 ### Tools
 [AIJack](https://github.com/Koukyosyumei/AIJack): Implementation of algorithms for AI security.
