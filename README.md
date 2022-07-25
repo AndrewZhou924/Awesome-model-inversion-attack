@@ -51,8 +51,27 @@ CVPR 2020 - The Secret Revealer: Generative Model-Inversion Attacks Against Deep
 APSIPA ASC 2020 - Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9306253&casa_token=AWugOvIe0I0AAAAA:9wICCkMcfoljMqooM-lgl8m-6F6-cEl-ClHgNkE1SV8mZwqvBIaJ1HDjT1RWLyBz_P7tdB51jQVL&tag=1)
 
-CVPE 2021 - See through gradients: Image batch recovery via gradinversion
+CCS 2021 - Membership Leakage in Label-Only Exposures.
+[[paper]](https://yangzhangalmo.github.io/papers/CCS21-Label.pdf)
+[[code]](https://github.com/zhenglisec/decision-based-mia)
+
+CCS 2021 - Black-box adversarial attacks on commercial speech platforms with minimal information.
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/3460120.3485383)
+
+CCS 2021 - Unleashing the tiger: Inference attacks on split learning
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/3460120.3485259)
+[[code]](https://github.com/pasquini-dario/SplitNN_FSHA)
+
+CVPR 2021 - See through gradients: Image batch recovery via gradinversion.
 [[paper]](http://openaccess.thecvf.com/content/CVPR2021/papers/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.pdf)
+
+CVPR 2021 - Soteria: Provable defense against privacy leakage in federated learning from representation perspective.
+[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.pdf)
+[[code]](https://github.com/jeremy313/Soteria)
+
+CVPR 2021 - Imagine: Image synthesis by image-guided model inversion.
+[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_IMAGINE_Image_Synthesis_by_Image-Guided_Model_Inversion_CVPR_2021_paper.pdf)
+
 
 NeurIPS 2021 - Variational Model Inversion Attacks.
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/50a074e6a8da4662ae0a29edde722179-Paper.pdf)
@@ -68,10 +87,28 @@ ICCV 2021 - Knowledge-Enriched Distributional Model Inversion Attacks.
 AAAI 2021 - Improving Robustness to Model Inversion Attacks via Mutual Information Regularization.
 [[paper]](https://arxiv.org/pdf/2009.05241.pdf)
 
+ICML 2021 - Label-Only Membership Inference Attack.
+[[paper]](http://proceedings.mlr.press/v139/choquette-choo21a/choquette-choo21a.pdf)
+[[code]](https://github.com/cchoquette/membership-inference)
+
+ICML 2021 - When Does Data Augmentation Help With Membership Inference Attacks?
+[[paper]](When Does Data Augmentation Help With Membership Inference Attacks?)
+
 ICLR 2021 workshop - PRACTICAL DEFENCES AGAINST MODEL INVERSION ATTACKS FOR SPLIT NEURAL NETWORKS.
 [[paper]](https://arxiv.org/pdf/2104.05743.pdf)
 [[code]](https://github.com/TTitcombe/Model-Inversion-SplitNN)
 [[video]](https://crossminds.ai/video/practical-defences-against-model-inversion-attacks-for-split-neural-networks-60c3cee46af07cfaf7325850/)
+
+ICDE 2021 Feature inference attack on model predictions in vertical federated learning.
+[[paper]](https://arxiv.org/pdf/2010.10152)
+[[code]](https://github.com/xj231/featureinference-vfl)
+
+DAC 2021 - PRID: Model Inversion Privacy Attacks in Hyperdimensional Learning Systems
+[[paper]](https://dl.acm.org/doi/abs/10.1109/DAC18074.2021.9586217)
+
+ICSE 2021 - Robustness of on-device models: Adversarial attack to deep learning models on android apps.
+[[paper]](https://arxiv.org/pdf/2101.04401)
+[[code]]
 
 ICML 2022 - Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks.
 [[paper]](https://arxiv.org/pdf/2201.12179.pdf)
@@ -92,6 +129,9 @@ USENIX Security 2022 - ML-DOCTOR: Holistic Risk Assessment of Inference Attacks 
 IEEE 2022 - An Approximate Memory based Defense against Model Inversion Attacks to Neural Networks.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9792582&casa_token=ymT57RhNhGEAAAAA:WsQHMpv77-4uyIp7l-p4hc7_Qmxvn5TeNpS5F7LHBFHyLay2O8Pe5eWqsKN2fu56v98NZsRrqeit)
 [[code]](https://github.com/katekemu/model_inversion_defense)
+
+TIFS 2022 - Model Inversion Attack by Integration of Deep Generative Models: Privacy-Sensitive Face Generation From a Face Recognition System
+[[paper]](https://dl.acm.org/doi/abs/10.1109/TIFS.2022.3140687)
 
 
 ### Graph learning domain
