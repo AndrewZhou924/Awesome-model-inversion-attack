@@ -118,6 +118,11 @@ CVPR 2022 - Label-Only Model Inversion Attacks via Boundary Repulsion.
 [[paper]](https://arxiv.org/pdf/2203.01925.pdf)
 [[code]](https://github.com/m-kahla/Label-Only-Model-Inversion-Attacks-via-Boundary-Repulsion)
 
+CVPR 2022 - ResSFL: A Resistance Transfer Framework for Defending Model Inversion Attack in Split Federated Learning
+
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Li_ResSFL_A_Resistance_Transfer_Framework_for_Defending_Model_Inversion_Attack_CVPR_2022_paper.html)
+[[code]](https://github.com/zlijingtao/ResSFL)
+
 KDD 2022 - Bilateral Dependency Optimization: Defending Against Model-inversion Attacks.
 [[paper]](https://arxiv.org/pdf/2206.05483.pdf)
 [[code]](https://github.com/xpeng9719/Defend_MI)
