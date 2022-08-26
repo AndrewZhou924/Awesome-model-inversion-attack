@@ -108,7 +108,6 @@ DAC 2021 - PRID: Model Inversion Privacy Attacks in Hyperdimensional Learning Sy
 
 ICSE 2021 - Robustness of on-device models: Adversarial attack to deep learning models on android apps.
 [[paper]](https://arxiv.org/pdf/2101.04401)
-[[code]]
 
 ICML 2022 - Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks.
 [[paper]](https://arxiv.org/pdf/2201.12179.pdf)
@@ -118,8 +117,7 @@ CVPR 2022 - Label-Only Model Inversion Attacks via Boundary Repulsion.
 [[paper]](https://arxiv.org/pdf/2203.01925.pdf)
 [[code]](https://github.com/m-kahla/Label-Only-Model-Inversion-Attacks-via-Boundary-Repulsion)
 
-CVPR 2022 - ResSFL: A Resistance Transfer Framework for Defending Model Inversion Attack in Split Federated Learning
-
+CVPR 2022 - ResSFL: A Resistance Transfer Framework for Defending Model Inversion Attack in Split Federated Learning.
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Li_ResSFL_A_Resistance_Transfer_Framework_for_Defending_Model_Inversion_Attack_CVPR_2022_paper.html)
 [[code]](https://github.com/zlijingtao/ResSFL)
 
