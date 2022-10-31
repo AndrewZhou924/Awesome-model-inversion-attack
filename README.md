@@ -36,6 +36,9 @@ CCS 2015 - Model Inversion Attacks that Exploit Confidence Information and Basic
 CSF 2016 - A Methodology for Formalizing Model-Inversion Attacks.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7536387&casa_token=ClIVAMYo6dcAAAAA:u75HHyFHj5lBRec9h5SqOZyAsL2dICcWIuQPCj6ltk8McREFCaM4ex42mv3S-oNPiGJLDfUqg0qL)
 
+PST 2017 - Model inversion attacks for prediction systems: Without knowledge of non-sensitive attributes.
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8476925)
+
 CCS 2019 - Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3354261?casa_token=J81Ps-ZWXHkAAAAA:FYnXo7DQoHpdhqns8x2TclKFeHpAQlXVxMBW2hTrhJ5c20XKdsounqdT1Viw1g6Xsu9FtKj85elxQaA)
 [[code]](https://github.com/zhangzp9970/TB-MIA)
