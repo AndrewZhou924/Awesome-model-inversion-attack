@@ -59,6 +59,9 @@ CVPR 2020 - The Secret Revealer: Generative Model-Inversion Attacks Against Deep
 APSIPA ASC 2020 - Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9306253&casa_token=AWugOvIe0I0AAAAA:9wICCkMcfoljMqooM-lgl8m-6F6-cEl-ClHgNkE1SV8mZwqvBIaJ1HDjT1RWLyBz_P7tdB51jQVL&tag=1)
 
+USENIX Security 2020 - Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning.
+[[paper]](https://www.usenix.org/system/files/sec20-salem.pdf)
+
 IJCAI 2021 - Contrastive Model Inversion for Data-Free Knowledge Distillation.
 [[paper]](https://www.ijcai.org/proceedings/2021/0327.pdf)
 [[code]](https://github.com/zju-vipa/CMI)
