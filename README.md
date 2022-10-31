@@ -3,9 +3,11 @@
 A curated list of resources for model inversion attack (MIA).
 
 ### What is the model inversion attack?
-In model inversion attacks, a malicious user attempts to recover the private dataset used to train a supervised neural network. A successful model inversion attack should generate realistic and diverse samples that accurately describe each of the classes in the private dataset.
 
-(by Variational Model Inversion Attacks, Wang et al, 2021.)
+The goal of model inversion attacks is to recreate training data or sensitive attributes.
+(Chen et al, 2021.)
+
+In model inversion attacks, a malicious user attempts to recover the private dataset used to train a supervised neural network. A successful model inversion attack should generate realistic and diverse samples that accurately describe each of the classes in the private dataset. (Wang et al, 2021.)
 
 ### Survey
 Arxiv 2021 - A Survey of Privacy Attacks in Machine Learning.
