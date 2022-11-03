@@ -158,6 +158,10 @@ USENIX Security 2020 - Stealing Links from Graph Neural Networks.
 [[paper]](https://www.usenix.org/system/files/sec21-he-xinlei.pdf)
 [[code]](https://github.com/xinleihe/link_stealing_attack)
 
+MobiQuitous 2020 - Quantifying Privacy Leakage in Graph Embedding.
+[[paper]](https://arxiv.org/pdf/2010.00906.pdf)
+[[code]](https://github.com/vasishtduddu/GraphLeaks)
+
 IJCAI 2021 - GraphMI: Extracting Private Graph Data from Graph Neural Networks.
 [[paper]](https://arxiv.org/pdf/2106.02820)
 [[code]](https://github.com/zaixizhang/GraphMI)
