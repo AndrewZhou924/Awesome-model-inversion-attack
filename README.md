@@ -195,6 +195,9 @@ Arxiv 2022 - Private Graph Extraction via Feature Explanations.
 USENIX Security 2021 - Extracting training data from large language models.
 [[paper]](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
 
+Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers.
+[[paper]](https://arxiv.org/pdf/2209.10505.pdf)
+
 ### Tools
 [AIJack](https://github.com/Koukyosyumei/AIJack): Implementation of algorithms for AI security.
 
