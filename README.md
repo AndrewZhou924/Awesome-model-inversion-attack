@@ -23,7 +23,7 @@ Arxiv 2022 - A Survey of Trustworthy Graph Learning: Reliability, Explainability
 [[paper]](https://arxiv.org/pdf/2205.10014.pdf)
 
 
-### General domain (including the computer vision)
+### Computer vision domain
 
 USENIX Security 2014 - Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing.
 [[paper]](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-fredrikson-privacy.pdf)
@@ -156,6 +156,7 @@ TIFS 2022 - Model Inversion Attack by Integration of Deep Generative Models: Pri
 
 USENIX Security 2020 - Stealing Links from Graph Neural Networks.
 [[paper]](https://www.usenix.org/system/files/sec21-he-xinlei.pdf)
+[[code]](https://github.com/xinleihe/link_stealing_attack)
 
 IJCAI 2021 - GraphMI: Extracting Private Graph Data from Graph Neural Networks.
 [[paper]](https://arxiv.org/pdf/2106.02820)
@@ -190,7 +191,7 @@ Arxiv 2022 - Degree-Preserving Randomized Response for Graph Neural Networks und
 Arxiv 2022 - Private Graph Extraction via Feature Explanations.
 [[paper]](https://arxiv.org/pdf/2206.14724.pdf)
 
-### NLP domain
+### Natural language processing domain
 
 USENIX Security 2021 - Extracting training data from large language models.
 [[paper]](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
