@@ -51,6 +51,9 @@ CCS 2019 - Neural Network Inversion in Adversarial Setting via Background Knowle
 Arxiv 2019 - Adversarial Neural Network Inversion via Auxiliary Knowledge Alignment.
 [[paper]](https://arxiv.org/pdf/1902.08552.pdf)
 
+Arxiv 2019 - GAMIN: An Adversarial Approach to Black-Box Model Inversion.
+[[paper]](https://arxiv.org/pdf/1909.11835.pdf)
+
 CVPR 2020 - The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks.
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pdf)
 [[code]](https://github.com/AI-secure/GMI-Attack)
@@ -61,6 +64,9 @@ APSIPA ASC 2020 - Deep Face Recognizer Privacy Attack: Model Inversion Initializ
 
 USENIX Security 2020 - Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning.
 [[paper]](https://www.usenix.org/system/files/sec20-salem.pdf)
+
+ECCV 2020 Workshop - Black-Box Face Recovery from Identity Features.
+[[paper]](https://arxiv.org/pdf/2007.13635.pdf)
 
 IJCAI 2021 - Contrastive Model Inversion for Data-Free Knowledge Distillation.
 [[paper]](https://www.ijcai.org/proceedings/2021/0327.pdf)
