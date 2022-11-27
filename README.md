@@ -38,6 +38,10 @@ CCS 2015 - Model Inversion Attacks that Exploit Confidence Information and Basic
 CSF 2016 - A Methodology for Formalizing Model-Inversion Attacks.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7536387&casa_token=ClIVAMYo6dcAAAAA:u75HHyFHj5lBRec9h5SqOZyAsL2dICcWIuQPCj6ltk8McREFCaM4ex42mv3S-oNPiGJLDfUqg0qL)
 
+CCS 2017 - Machine Learning Models that Remember Too Much.
+[[paper]](https://arxiv.org/pdf/1709.07886.pdf)
+[[code]](https://github.com/csong27/ml-model-remember)
+
 PST 2017 - Model inversion attacks for prediction systems: Without knowledge of non-sensitive attributes.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8476925)
 
@@ -65,6 +69,9 @@ CVPR 2020 - The Secret Revealer: Generative Model-Inversion Attacks Against Deep
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pdf)
 [[code]](https://github.com/AI-secure/GMI-Attack)
 [[video]](https://www.youtube.com/watch?v=_g-oXYMhz4M)
+
+ICLR 2020 - OVERLEARNING REVEALS SENSITIVE ATTRIBUTES.
+[[paper]](https://arxiv.org/pdf/1905.11742.pdf)
 
 APSIPA ASC 2020 - Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9306253&casa_token=AWugOvIe0I0AAAAA:9wICCkMcfoljMqooM-lgl8m-6F6-cEl-ClHgNkE1SV8mZwqvBIaJ1HDjT1RWLyBz_P7tdB51jQVL&tag=1)
