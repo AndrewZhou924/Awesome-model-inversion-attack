@@ -1,6 +1,11 @@
-# Awesome-model-inversion-attack
-
+<h1 align="center"><b>Awesome-model-inversion-attack</b></h1>
+<p align="center">
+    <a href="https://github.com/AndrewZhou924/Awesome-model-inversion-attack/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-green" alt="PRs"></a>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
+    <img src="https://img.shields.io/github/stars/AndrewZhou924/Awesome-model-inversion-attack?color=yellow&label=Star" alt="Stars" >
+</p>
 A curated list of resources for model inversion attack (MIA).
+If some related papers are missing, please contact us via pull requests.
 
 ### What is the model inversion attack?
 
