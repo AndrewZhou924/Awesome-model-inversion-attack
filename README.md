@@ -48,11 +48,18 @@ CCS 2019 - Neural Network Inversion in Adversarial Setting via Background Knowle
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3354261?casa_token=J81Ps-ZWXHkAAAAA:FYnXo7DQoHpdhqns8x2TclKFeHpAQlXVxMBW2hTrhJ5c20XKdsounqdT1Viw1g6Xsu9FtKj85elxQaA)
 [[code]](https://github.com/zhangzp9970/TB-MIA)
 
+IEEE S&P 2019 - Exploiting Unintended Feature Leakage in Collaborative Learning.
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835269)
+[[code]](https://github.com/csong27/property-inference-collaborative-ml)
+
 Arxiv 2019 - Adversarial Neural Network Inversion via Auxiliary Knowledge Alignment.
 [[paper]](https://arxiv.org/pdf/1902.08552.pdf)
 
 Arxiv 2019 - GAMIN: An Adversarial Approach to Black-Box Model Inversion.
 [[paper]](https://arxiv.org/pdf/1909.11835.pdf)
+
+CCS 2020 - Information Leakage in Embedding Models.
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/3372297.3417270?casa_token=0ltuTKcG5cIAAAAA:YcpnOm4WlV0UnSS2dOWdtcnFh6DqSygG9MuS31gGQEgMxOBHQKeXsoNGkFhEw8gvlqY78gTkaRn9gUo)
 
 CVPR 2020 - The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks.
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pdf)
