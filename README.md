@@ -112,7 +112,6 @@ CVPR 2021 - Soteria: Provable defense against privacy leakage in federated learn
 CVPR 2021 - Imagine: Image synthesis by image-guided model inversion.
 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_IMAGINE_Image_Synthesis_by_Image-Guided_Model_Inversion_CVPR_2021_paper.pdf)
 
-
 NeurIPS 2021 - Variational Model Inversion Attacks.
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/50a074e6a8da4662ae0a29edde722179-Paper.pdf)
 [[code]](https://github.com/wangkua1/vmi)
@@ -148,6 +147,9 @@ DAC 2021 - PRID: Model Inversion Privacy Attacks in Hyperdimensional Learning Sy
 
 ICSE 2021 - Robustness of on-device models: Adversarial attack to deep learning models on android apps.
 [[paper]](https://arxiv.org/pdf/2101.04401)
+
+CSR Workshops 2021 - Defending Against Model Inversion Attack by Adversarial Examples.
+[[paper]]https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527945)
 
 ICML 2022 - Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks.
 [[paper]](https://arxiv.org/pdf/2201.12179.pdf)
@@ -237,5 +239,11 @@ Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Atta
 
 
 ### Others
+2019 - Model Inversion Attacks Against Collaborative Inference.
+[[slides]](https://www.acsac.org/2019/program/final/1/167.pdf)
+
+2020 - Attacks against Machine Learning Privacy (Part 1): Model Inversion Attacks with the IBM-ART Framework.
+[[blog]](https://franziska-boenisch.de/posts/2020/12/model-inversion/)
+
 2021 - ML and DP.
 [[slides]](https://www.cs.toronto.edu/~toni/Courses/Fairness/Lectures/ML-and-DP-v2.pdf)
