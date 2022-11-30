@@ -239,6 +239,10 @@ Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Atta
 
 
 ### Others
+2019 - Uncovering a model’s secrets.
+[[blog1]](https://gab41.lab41.org/uncovering-a-models-secrets-model-inversion-part-i-ce460eab93d6)
+[[blog2]](https://gab41.lab41.org/robust-or-private-model-inversion-part-ii-94d54fd8d4a5)
+
 2019 - Model Inversion Attacks Against Collaborative Inference.
 [[slides]](https://www.acsac.org/2019/program/final/1/167.pdf)
 
