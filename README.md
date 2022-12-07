@@ -222,6 +222,9 @@ Arxiv 2022 - Degree-Preserving Randomized Response for Graph Neural Networks und
 Arxiv 2022 - Private Graph Extraction via Feature Explanations.
 [[paper]](https://arxiv.org/pdf/2206.14724.pdf)
 
+Arxiv 2022 - Privacy and Transparency in Graph Machine Learning: A Unified Perspective.
+[[paper]](https://arxiv.org/pdf/2207.10896.pdf)
+
 ### Natural language processing domain
 
 USENIX Security 2021 - Extracting training data from large language models.
