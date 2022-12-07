@@ -178,6 +178,8 @@ IEEE 2022 - An Approximate Memory based Defense against Model Inversion Attacks 
 TIFS 2022 - Model Inversion Attack by Integration of Deep Generative Models: Privacy-Sensitive Face Generation From a Face Recognition System
 [[paper]](https://dl.acm.org/doi/abs/10.1109/TIFS.2022.3140687)
 
+Arxiv 2022 - Defending against Reconstruction Attacks through Differentially Private Federated Learning for Classification of Heterogeneous Chest X-Ray Data.
+[[paper]](https://arxiv.org/pdf/2205.03168.pdf)
 
 ### Graph learning domain
 
@@ -188,6 +190,10 @@ USENIX Security 2020 - Stealing Links from Graph Neural Networks.
 MobiQuitous 2020 - Quantifying Privacy Leakage in Graph Embedding.
 [[paper]](https://arxiv.org/pdf/2010.00906.pdf)
 [[code]](https://github.com/vasishtduddu/GraphLeaks)
+
+ICML 2021 - DeepWalking Backwards: From Node Embeddings Back to Graphs.
+[[paper]](http://proceedings.mlr.press/v139/chanpuriya21a/chanpuriya21a.pdf)
+[[code]](https://github.com/konsotirop/Invert_Embeddings)
 
 IJCAI 2021 - GraphMI: Extracting Private Graph Data from Graph Neural Networks.
 [[paper]](https://arxiv.org/pdf/2106.02820)
