@@ -246,7 +246,6 @@ Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Atta
 
 [ml-attack-framework](https://github.com/Pilladian/ml-attack-framework): Universität des Saarlandes - Privacy Enhancing Technologies 2021 - Semester Project.
 
-
 ### Others
 2019 - Uncovering a model’s secrets.
 [[blog1]](https://gab41.lab41.org/uncovering-a-models-secrets-model-inversion-part-i-ce460eab93d6)
@@ -260,3 +259,9 @@ Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Atta
 
 2021 - ML and DP.
 [[slides]](https://www.cs.toronto.edu/~toni/Courses/Fairness/Lectures/ML-and-DP-v2.pdf)
+
+
+### Related repositories
+awesome-ml-privacy-attacks
+[[repo]](https://github.com/stratosphereips/awesome-ml-privacy-attacks#reconstruction)
+
