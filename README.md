@@ -231,6 +231,11 @@ Arxiv 2022 - Private Graph Extraction via Feature Explanations.
 Arxiv 2022 - Privacy and Transparency in Graph Machine Learning: A Unified Perspective.
 [[paper]](https://arxiv.org/pdf/2207.10896.pdf)
 
+CCS 2022 - Finding MNEMON: Reviving Memories of Node Embeddings.
+[[paper]](https://arxiv.org/pdf/2204.06963.pdf)
+
+
+
 ### Natural language processing domain
 
 USENIX Security 2021 - Extracting training data from large language models.
