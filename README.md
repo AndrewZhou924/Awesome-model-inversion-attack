@@ -67,9 +67,6 @@ Arxiv 2019 - Adversarial Neural Network Inversion via Auxiliary Knowledge Alignm
 Arxiv 2019 - GAMIN: An Adversarial Approach to Black-Box Model Inversion.
 [[paper]](https://arxiv.org/pdf/1909.11835.pdf)
 
-CCS 2020 - Information Leakage in Embedding Models.
-[[paper]](https://dl.acm.org/doi/pdf/10.1145/3372297.3417270?casa_token=0ltuTKcG5cIAAAAA:YcpnOm4WlV0UnSS2dOWdtcnFh6DqSygG9MuS31gGQEgMxOBHQKeXsoNGkFhEw8gvlqY78gTkaRn9gUo)
-
 CVPR 2020 - The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks.
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pdf)
 [[code]](https://github.com/AI-secure/GMI-Attack)
@@ -238,11 +235,15 @@ CCS 2022 - Finding MNEMON: Reviving Memories of Node Embeddings.
 
 ### Natural language processing domain
 
+CCS 2020 - Information Leakage in Embedding Models.
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/3372297.3417270?casa_token=0ltuTKcG5cIAAAAA:YcpnOm4WlV0UnSS2dOWdtcnFh6DqSygG9MuS31gGQEgMxOBHQKeXsoNGkFhEw8gvlqY78gTkaRn9gUo)
+
 USENIX Security 2021 - Extracting training data from large language models.
 [[paper]](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
 
 Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers.
 [[paper]](https://arxiv.org/pdf/2209.10505.pdf)
+
 
 ### Tools
 [AIJack](https://github.com/Koukyosyumei/AIJack): Implementation of algorithms for AI security.
@@ -250,6 +251,7 @@ Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Atta
 [Privacy-Attacks-in-Machine-Learning](https://github.com/shrebox/Privacy-Attacks-in-Machine-Learning): Membership Inference, Attribute Inference and Model Inversion attacks implemented using PyTorch.
 
 [ml-attack-framework](https://github.com/Pilladian/ml-attack-framework): Universität des Saarlandes - Privacy Enhancing Technologies 2021 - Semester Project.
+
 
 ### Others
 2019 - Uncovering a model’s secrets.
