@@ -231,7 +231,8 @@ Arxiv 2022 - Privacy and Transparency in Graph Machine Learning: A Unified Persp
 CCS 2022 - Finding MNEMON: Reviving Memories of Node Embeddings.
 [[paper]](https://arxiv.org/pdf/2204.06963.pdf)
 
-
+IJIS 2022 - Defense against membership inference attack in graph neural networks through graph perturbation.
+[[paper]](https://link.springer.com/article/10.1007/s10207-022-00646-y)
 
 ### Natural language processing domain
 
