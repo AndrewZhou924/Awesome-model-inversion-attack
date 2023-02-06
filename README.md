@@ -234,6 +234,9 @@ CCS 2022 - Finding MNEMON: Reviving Memories of Node Embeddings.
 IJIS 2022 - Defense against membership inference attack in graph neural networks through graph perturbation.
 [[paper]](https://link.springer.com/article/10.1007/s10207-022-00646-y)
 
+TKDE 2022 - Model Inversion Attacks against Graph Neural Networks.
+[[paper]](https://arxiv.org/pdf/2209.07807.pdf)
+
 ### Natural language processing domain
 
 CCS 2020 - Information Leakage in Embedding Models.
