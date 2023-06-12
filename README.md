@@ -237,6 +237,10 @@ IJIS 2022 - Defense against membership inference attack in graph neural networks
 TKDE 2022 - Model Inversion Attacks against Graph Neural Networks.
 [[paper]](https://arxiv.org/pdf/2209.07807.pdf)
 
+ICML 2023 - On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.
+[[paper]](https://openreview.net/pdf?id=Vcl3qckVyh)
+[[code]](https://github.com/tmlr-group/MC-GRA)
+
 ### Natural language processing domain
 
 CCS 2020 - Information Leakage in Embedding Models.
