@@ -178,6 +178,13 @@ TIFS 2022 - Model Inversion Attack by Integration of Deep Generative Models: Pri
 Arxiv 2022 - Defending against Reconstruction Attacks through Differentially Private Federated Learning for Classification of Heterogeneous Chest X-Ray Data.
 [[paper]](https://arxiv.org/pdf/2205.03168.pdf)
 
+IEEE 2021  - Defending Against Model Inversion Attack by Adversarial Examples 
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527945&tag=1)
+
+ICLR 2021 - PRACTICAL DEFENCES AGAINST MODEL INVERSION ATTACKS FOR SPLIT NEURAL NETWORKS
+[[paper]](https://arxiv.org/abs/2104.05743)
+[[code]](https://github.com/TTitcombe/Model-Inversion-SplitNN)
+
 ### Graph learning domain
 
 USENIX Security 2020 - Stealing Links from Graph Neural Networks.
