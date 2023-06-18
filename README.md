@@ -7,7 +7,11 @@
 A curated list of resources for model inversion attack (MIA).
 If some related papers are missing, please contact us via pull requests.
 
-### What is the model inversion attack?
+**Outlines:**
+
+[TOC]
+
+## What is the model inversion attack?
 
 A model inversion attack is a privacy attack where the attacker is able to reconstruct the original samples that were used to train the synthetic model from the generated synthetic data set. (Mostly.ai)
 
@@ -16,7 +20,7 @@ The goal of model inversion attacks is to recreate training data or sensitive at
 
 In model inversion attacks, a malicious user attempts to recover the private dataset used to train a supervised neural network. A successful model inversion attack should generate realistic and diverse samples that accurately describe each of the classes in the private dataset. (Wang et al, 2021.)
 
-### Survey
+## Survey
 Arxiv 2021 - A Survey of Privacy Attacks in Machine Learning.
 [[paper]](https://arxiv.org/pdf/2007.07646.pdf)
 
@@ -34,7 +38,7 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 [[paper]](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2018.0083)
 
 
-### Computer vision domain
+## Computer vision domain
 
 USENIX Security 2014 - Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing.
 [[paper]](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-fredrikson-privacy.pdf)
@@ -45,6 +49,10 @@ CCS 2015 - Model Inversion Attacks that Exploit Confidence Information and Basic
 [[code2]](https://github.com/yashkant/Model-Inversion-Attack)
 [[code3]](https://github.com/zhangzp9970/MIA)
 [[code4]](https://github.com/sarahsimionescu/simple-model-inversion)
+
+IJCAI 2015 - Regression model fitting under differential privacy and model inversion attack.
+[[paper]](http://www.csce.uark.edu/~xintaowu/publ/ijcai15.pdf)
+[[code]](https://github.com/cxs040/Regression-Model-Fitting-under-Differential-Privacy-and-Model-Inversion-Attack-Source-Code)
 
 CSF 2016 - A Methodology for Formalizing Model-Inversion Attacks.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7536387&casa_token=ClIVAMYo6dcAAAAA:u75HHyFHj5lBRec9h5SqOZyAsL2dICcWIuQPCj6ltk8McREFCaM4ex42mv3S-oNPiGJLDfUqg0qL)
@@ -58,6 +66,13 @@ PST 2017 - Model inversion attacks for prediction systems: Without knowledge of 
 
 CSF 2018 - Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8429311)
+
+GLSVLSI 2019 - MLPrivacyGuard: Defeating Confidence Information based Model Inversion Attacks on Machine Learning Systems.
+[[paper]](https://www.researchgate.net/profile/Tiago-Alves-13/publication/333136362_MLPrivacyGuard_Defeating_Confidence_Information_based_Model_Inversion_Attacks_on_Machine_Learning_Systems/links/5cddb94d92851c4eaba682d7/MLPrivacyGuard-Defeating-Confidence-Information-based-Model-Inversion-Attacks-on-Machine-Learning-Systems.pdf)
+
+ACSAC  2019 - Model inversion attacks against collaborative inference.
+[[paper]](https://par.nsf.gov/servlets/purl/10208164)
+[[code]](https://github.com/zechenghe/Inverse_Collaborative_Inference)
 
 CCS 2019 - Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3354261?casa_token=J81Ps-ZWXHkAAAAA:FYnXo7DQoHpdhqns8x2TclKFeHpAQlXVxMBW2hTrhJ5c20XKdsounqdT1Viw1g6Xsu9FtKj85elxQaA)
@@ -87,8 +102,15 @@ APSIPA ASC 2020 - Deep Face Recognizer Privacy Attack: Model Inversion Initializ
 USENIX Security 2020 - Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning.
 [[paper]](https://www.usenix.org/system/files/sec20-salem.pdf)
 
+IoTJ 2020 - Attacking and Protecting Data Privacy in Edge-Cloud Collaborative Inference Systems.
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9187880)
+[[code]](https://github.com/zechenghe/Inverse_Collaborative_Inference)
+
 ECCV 2020 Workshop - Black-Box Face Recovery from Identity Features.
 [[paper]](https://arxiv.org/pdf/2007.13635.pdf)
+
+Arxiv 2020 - Defending model inversion and membership inference attacks via prediction purification.
+[[paper]](https://arxiv.org/pdf/2005.03915.pdf)
 
 IJCAI 2021 - Contrastive Model Inversion for Data-Free Knowledge Distillation.
 [[paper]](https://www.ijcai.org/proceedings/2021/0327.pdf)
@@ -187,7 +209,7 @@ Arxiv 2022 - Defending against Reconstruction Attacks through Differentially Pri
 IEEE 2021  - Defending Against Model Inversion Attack by Adversarial Examples.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527945&tag=1)
 
-### Graph learning domain
+## Graph learning domain
 
 USENIX Security 2020 - Stealing Links from Graph Neural Networks.
 [[paper]](https://www.usenix.org/system/files/sec21-he-xinlei.pdf)
@@ -250,7 +272,7 @@ ICML 2023 - On Strengthening and Defending Graph Reconstruction Attack with Mark
 [[paper]](https://openreview.net/pdf?id=Vcl3qckVyh)
 [[code]](https://github.com/tmlr-group/MC-GRA)
 
-### Natural language processing domain
+## Natural language processing domain
 
 CCS 2020 - Information Leakage in Embedding Models.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3372297.3417270?casa_token=0ltuTKcG5cIAAAAA:YcpnOm4WlV0UnSS2dOWdtcnFh6DqSygG9MuS31gGQEgMxOBHQKeXsoNGkFhEw8gvlqY78gTkaRn9gUo)
@@ -262,7 +284,7 @@ Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Atta
 [[paper]](https://arxiv.org/pdf/2209.10505.pdf)
 
 
-### Tools
+## Tools
 [AIJack](https://github.com/Koukyosyumei/AIJack): Implementation of algorithms for AI security.
 
 [Privacy-Attacks-in-Machine-Learning](https://github.com/shrebox/Privacy-Attacks-in-Machine-Learning): Membership Inference, Attribute Inference and Model Inversion attacks implemented using PyTorch.
@@ -270,7 +292,7 @@ Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Atta
 [ml-attack-framework](https://github.com/Pilladian/ml-attack-framework): Universität des Saarlandes - Privacy Enhancing Technologies 2021 - Semester Project.
 
 
-### Others
+## Others
 2019 - Uncovering a model’s secrets.
 [[blog1]](https://gab41.lab41.org/uncovering-a-models-secrets-model-inversion-part-i-ce460eab93d6)
 [[blog2]](https://gab41.lab41.org/robust-or-private-model-inversion-part-ii-94d54fd8d4a5)
@@ -285,7 +307,7 @@ Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Atta
 [[slides]](https://www.cs.toronto.edu/~toni/Courses/Fairness/Lectures/ML-and-DP-v2.pdf)
 
 
-### Related repositories
+## Related repositories
 awesome-ml-privacy-attacks
 [[repo]](https://github.com/stratosphereips/awesome-ml-privacy-attacks#reconstruction)
 
