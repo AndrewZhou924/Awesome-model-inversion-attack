@@ -39,6 +39,13 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 
 
 ## Computer vision domain
+| Year | Title | Adversarial Knowledge | Venue | Paper Link | Code Link |
+| ---- | ----- | -------------------- | ----- | ---------- | --------- |
+| 2014 | Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing | | USENIX Security | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-fredrikson-privacy.pdf) | |
+| 2015 | Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures | | CCS | [Paper](https://dl.acm.org/doi/pdf/10.1145/2810103.2813677) | [Code1](http://www.cs.cmu.edu/~mfredrik/mi-2016.zip), [Code2](https://github.com/yashkant/Model-Inversion-Attack), [Code3](https://github.com/zhangzp9970/MIA), [Code4](https://github.com/sarahsimionescu/simple-model-inversion) |
+| 2015 | Regression model fitting under differential privacy and model inversion attack | | IJCAI | [Paper](http://www.csce.uark.edu/~xintaowu/publ/ijcai15.pdf) | [Code](https://github.com/cxs040/Regression-Model-Fitting-under-Differential-Privacy-and-Model-Inversion-Attack-Source-Code) |
+| 2016 | A Methodology for Formalizing Model-Inversion Attacks | | CSF | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7536387&casa_token=ClIVAMYo6dcAAAAA:u75HHyFHj5lBRec9h5SqOZyAsL2dICcWIuQPCj6ltk8McREFCaM4ex42mv3S-oNPiGJLDfUqg0qL) | |
+
 
 USENIX Security 2014 - Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing.
 [[paper]](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-fredrikson-privacy.pdf)
