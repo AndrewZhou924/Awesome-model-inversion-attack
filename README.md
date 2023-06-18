@@ -9,6 +9,8 @@ If some related papers are missing, please contact us via pull requests.
 
 ### What is the model inversion attack?
 
+A model inversion attack is a privacy attack where the attacker is able to reconstruct the original samples that were used to train the synthetic model from the generated synthetic data set. (Mostly.ai)
+
 The goal of model inversion attacks is to recreate training data or sensitive attributes.
 (Chen et al, 2021.)
 
@@ -26,6 +28,10 @@ Arxiv 2022 - Trustworthy Graph Neural Networks: Aspects, Methods and Trends.
 
 Arxiv 2022 - A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection.
 [[paper]](https://arxiv.org/pdf/2205.10014.pdf)
+
+Philosophical Transactions of the Royal Society A 2018. Algorithms that remember: model inversion attacks and data protection law.
+
+[[paper]](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2018.0083)
 
 
 ### Computer vision domain
@@ -146,7 +152,7 @@ ICSE 2021 - Robustness of on-device models: Adversarial attack to deep learning 
 [[paper]](https://arxiv.org/pdf/2101.04401)
 
 CSR Workshops 2021 - Defending Against Model Inversion Attack by Adversarial Examples.
-[[paper]]https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527945)
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527945)
 
 ICML 2022 - Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks.
 [[paper]](https://arxiv.org/pdf/2201.12179.pdf)
@@ -178,12 +184,8 @@ TIFS 2022 - Model Inversion Attack by Integration of Deep Generative Models: Pri
 Arxiv 2022 - Defending against Reconstruction Attacks through Differentially Private Federated Learning for Classification of Heterogeneous Chest X-Ray Data.
 [[paper]](https://arxiv.org/pdf/2205.03168.pdf)
 
-IEEE 2021  - Defending Against Model Inversion Attack by Adversarial Examples 
+IEEE 2021  - Defending Against Model Inversion Attack by Adversarial Examples.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527945&tag=1)
-
-ICLR 2021 - PRACTICAL DEFENCES AGAINST MODEL INVERSION ATTACKS FOR SPLIT NEURAL NETWORKS
-[[paper]](https://arxiv.org/abs/2104.05743)
-[[code]](https://github.com/TTitcombe/Model-Inversion-SplitNN)
 
 ### Graph learning domain
 
