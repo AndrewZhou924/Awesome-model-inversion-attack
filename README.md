@@ -342,6 +342,7 @@ ICML 2023 - On Strengthening and Defending Graph Reconstruction Attack with Mark
 | 2021 | TAG: Gradient Attack on Transformer-based Language Models | white-box | EMNLP | [Paper](https://arxiv.org/pdf/2103.06819.pdf) |  |
 | 2020 | Information Leakage in Embedding Models | black & white-box | ACM | [Paper](https://arxiv.org/pdf/2004.00053.pdf) |  |
 | 2022 | Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers| white-box| Arxiv | [Paper](https://arxiv.org/pdf/2209.10505.pdf) |  |
+
 CCS 2020 - Information Leakage in Embedding Models.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3372297.3417270?casa_token=0ltuTKcG5cIAAAAA:YcpnOm4WlV0UnSS2dOWdtcnFh6DqSygG9MuS31gGQEgMxOBHQKeXsoNGkFhEw8gvlqY78gTkaRn9gUo)
 
