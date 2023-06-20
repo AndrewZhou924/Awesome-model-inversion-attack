@@ -261,6 +261,15 @@ IEEE 2021  - Defending Against Model Inversion Attack by Adversarial Examples.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527945&tag=1)
 
 ## Graph learning domain
+| Year | Title | Adversarial Knowledge | Venue | Paper Link | Code Link |
+| ---- | ----- | -------------------- | ----- | ---------- | --------- |
+| 2023 | NetGuard: Protecting Commercial Web APIs from Model Inversion Atacks using GAN-generated Fake Samples  | white-box | ACM | [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583224) |  |
+| 2020 | Improving Robustness to Model Inversion Attacks via Mutual Information Regularization |  black & white-box | AAAI | [Paper](https://arxiv.org/pdf/2009.05241v1.pdf) |  |
+| 2021 | A Survey on Gradient Inversion: Attacks, Defenses and Future Directions |  white-box | IJCAI | [Paper](https://arxiv.org/pdf/2206.07284.pdf) |  |
+| 2021 | GraphMI: Extracting Private Graph Data from Graph Neural Networks |  white-box | IJCAI | [Paper](https://arxiv.org/pdf/2106.02820v1.pdf) | [code](https://github.com/zaixizhang/GraphMI) |
+| 2021 | NetFense: Adversarial Defenses against Privacy Attacks on Neural Networks for Graph Data |  black-box | IEEE | [Paper](https://arxiv.org/pdf/2106.11865.pdf) | [code](https://github.com/ICHproject/NetFense) |
+| 2020 | Reducing Risk of Model Inversion Using Privacy-Guided Training |  black & white-box | Arxiv | [Paper](https://arxiv.org/pdf/2006.15877.pdf) |  |
+| 2022 | A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability |  black & white-box | Arxiv | [Paper](https://arxiv.org/pdf/2204.08570.pdf) |  |
 
 USENIX Security 2020 - Stealing Links from Graph Neural Networks.
 [[paper]](https://www.usenix.org/system/files/sec21-he-xinlei.pdf)
@@ -324,7 +333,15 @@ ICML 2023 - On Strengthening and Defending Graph Reconstruction Attack with Mark
 [[code]](https://github.com/tmlr-group/MC-GRA)
 
 ## Natural language processing domain
-
+| Year | Title | Adversarial Knowledge | Venue | Paper Link | Code Link |
+| ---- | ----- | -------------------- | ----- | ---------- | --------- |
+| 2020 | Extracting Training Data from Large Language Models |  black-box | USENIX Security | [Paper](https://arxiv.org/pdf/2012.07805.pdf) | [code](https://arxiv.org/pdf/2012.07805.pdf) |
+| 2020 | Privacy Risks of General-Purpose Language Models | black & white-box | IEEE | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152761) |  |
+| 2022 | Defending against Reconstruction Attacks with Rényi Differential Privacy | white-box | Arxiv | [Paper](https://arxiv.org/pdf/2202.07623.pdf) |  |
+| 2018 | Privacy-preserving Neural Representations of Text | white-box | Arxiv | [Paper](https://arxiv.org/pdf/1808.09408.pdf) | [code](https://github.com/mcoavoux/pnet) |
+| 2021 | TAG: Gradient Attack on Transformer-based Language Models | white-box | EMNLP | [Paper](https://arxiv.org/pdf/2103.06819.pdf) |  |
+| 2020 | Information Leakage in Embedding Models | black & white-box | ACM | [Paper](https://arxiv.org/pdf/2004.00053.pdf) |  |
+| 2022 | Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers| white-box| Arxiv | [Paper](https://arxiv.org/pdf/2209.10505.pdf) |  |
 CCS 2020 - Information Leakage in Embedding Models.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3372297.3417270?casa_token=0ltuTKcG5cIAAAAA:YcpnOm4WlV0UnSS2dOWdtcnFh6DqSygG9MuS31gGQEgMxOBHQKeXsoNGkFhEw8gvlqY78gTkaRn9gUo)
 
