@@ -55,25 +55,19 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2019 | Adversarial Neural Network Inversion via Auxiliary Knowledge Alignment | | Arxiv | [Paper](https://arxiv.org/pdf/1902.08552.pdf) | |
 | 2019 | GAMIN: An Adversarial Approach to Black-Box Model Inversion | | Arxiv | [Paper](https://arxiv.org/pdf/1909.11835.pdf) | |
 | 2020 | The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks | | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pdf) | [Code](https://github.com/AI-secure/GMI-Attack), [Video](https://www.youtube.com/watch?v=_g-oXYMhz4M) |
-| 2020 | OVERLEARNING REVEALS SENSITIVE ATTRIBUTES | | ICLR | [Paper](https://arxiv.org/pdf/1905.11742.pdf) | |
+| 2020 | Overlearning Reveals Sensitive Attributes | | ICLR | [Paper](https://arxiv.org/pdf/1905.11742.pdf) | |
 | 2020 | Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator | | APSIPA ASC | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9306253&casa_token=AWugOvIe0I0AAAAA:9wICCkMcfoljMqooM-lgl8m-6F6-cEl-ClHgNkE1SV8mZwqvBIaJ1HDjT1RWLyBz_P7tdB51jQVL&tag=1) | |
 | 2020 | Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning | | USENIX Security | [Paper](https://www.usenix.org/system/files/sec20-salem.pdf) | |
 | 2020 | Attacking and Protecting Data Privacy in Edge-Cloud Collaborative Inference Systems | | IoTJ | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9187880) | [Code](https://github.com/zechenghe/Inverse_Collaborative_Inference) |
 | 2020 | Black-Box Face Recovery from Identity Features | | ECCV Workshop | [Paper](https://arxiv.org/pdf/2007.13635.pdf) | |
 | 2020 | Defending model inversion and membership inference attacks via prediction purification | | Arxiv | [Paper](https://arxiv.org/pdf/2005.03915.pdf) | |
-| 2021 | Contrastive Model Inversion for Data-Free Knowledge Distillation | | IJCAI | [Paper](https://www.ijcai.org/proceedings/2021/0327.pdf) | [Code](https://github.com/zju-vipa/CMI) |
-| 2021 | Membership Leakage in Label-Only Exposures | | CCS | [Paper](https://yangzhangalmo.github.io/papers/CCS21-Label.pdf) | [Code](https://github.com/zhenglisec/decision-based-mia) |
 | 2021 | Black-box adversarial attacks on commercial speech platforms with minimal information | | CCS | [Paper](https://dl.acm.org/doi/pdf/10.1145/3460120.3485383) | |
 | 2021 | Unleashing the tiger: Inference attacks on split learning | | CCS | [Paper](https://dl.acm.org/doi/pdf/10.1145/3460120.3485259) | [Code](https://github.com/pasquini-dario/SplitNN_FSHA) |
-| 2021 | See through gradients: Image batch recovery via gradinversion | | CVPR | [Paper](http://openaccess.thecvf.com/content/CVPR2021/papers/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.pdf) | |
 | 2021 | Soteria: Provable defense against privacy leakage in federated learning from representation perspective | | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.pdf) | [Code](https://github.com/jeremy313/Soteria) |
-| 2021 | Imagine: Image synthesis by image-guided model inversion | | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_IMAGINE_Image_Synthesis_by_Image-Guided_Model_Inversion_CVPR_2021_paper.pdf) | |
 | 2021 | Variational Model Inversion Attacks | | NeurIPS | [Paper](https://proceedings.neurips.cc/paper/2021/file/50a074e6a8da4662ae0a29edde722179-Paper.pdf) | [Code](https://github.com/wangkua1/vmi) |
 | 2021 | Exploiting Explanations for Model Inversion Attacks | | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Exploiting_Explanations_for_Model_Inversion_Attacks_ICCV_2021_paper.pdf) | |
 | 2021 | Knowledge-Enriched Distributional Model Inversion Attacks | | ICCV | [Paper](https://arxiv.org/pdf/2010.04092.pdf) | [Code](https://github.com/SCccc21/Knowledge-Enriched-DMI) |
 | 2021 | Improving Robustness to Model Inversion Attacks via Mutual Information Regularization | | AAAI | [Paper](https://arxiv.org/pdf/2009.05241.pdf) | |
-| 2021 | Label-Only Membership Inference Attack | | ICML | [Paper](http://proceedings.mlr.press/v139/choquette-choo21a/choquette-choo21a.pdf) | [Code](https://github.com/cchoquette/membership-inference) |
-| 2021 | When Does Data Augmentation Help With Membership Inference Attacks? | | ICML | [Paper](When Does Data Augmentation Help With Membership Inference Attacks?) | |
 | 2021 | Practical Defences Against Model Inversion Attacks for Split Neural Networks | | ICLR Workshop | [Paper](https://arxiv.org/pdf/2104.05743.pdf) | [Code](https://github.com/TTitcombe/Model-Inversion-SplitNN), [Video](https://crossminds.ai/video/practical-defences-against-model-inversion-attacks-for-split-neural-networks-60c3cee46af07cfaf7325850/) |
 | 2021 | Feature Inference Attack on Model Predictions in Vertical Federated Learning | | ICDE | [Paper](https://arxiv.org/pdf/2010.10152) | [Code](https://github.com/xj231/featureinference-vfl) |
 | 2021 | PRID: Model Inversion Privacy Attacks in Hyperdimensional Learning Systems | | DAC | [Paper](https://dl.acm.org/doi/abs/10.1109/DAC18074.2021.9586217) | |
@@ -87,7 +81,6 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2022 | An Approximate Memory Based Defense Against Model Inversion Attacks to Neural Networks | | IEEE | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9792582&casa_token=ymT57RhNhGEAAAAA:WsQHMpv77-4uyIp7l-p4hc7_Qmxvn5TeNpS5F7LHBFHyLay2O8Pe5eWqsKN2fu56v98NZsRrqeit) | [Code](https://github.com/katekemu/model_inversion_defense) |
 | 2022 | Model Inversion Attack by Integration of Deep Generative Models: Privacy-Sensitive Face Generation From a Face Recognition System | | TIFS | [Paper](https://dl.acm.org/doi/abs/10.1109/TIFS.2022.3140687) | |
 | 2022 | Defending Against Reconstruction Attacks Through Differentially Private Federated Learning for Classification of Heterogeneous Chest X-Ray Data | | Arxiv | [Paper](https://arxiv.org/pdf/2205.03168.pdf) | |
-| 2021 | Defending Against Model Inversion Attack by Adversarial Examples | | IEEE | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527945&tag=1) | |
 
 
 
