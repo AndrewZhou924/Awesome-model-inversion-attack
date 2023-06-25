@@ -96,7 +96,7 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2021 | Practical Black Box Model Inversion Attacks Against Neural Nets | ECML PKDD | black-box | [Paper]() |  |
 | 2021 | Model Inversion Attack against a Face Recognition System in a Black-Box Setting | APSIPA | black-box | [Paper](http://www.apsipa.org/proceedings/2021/pdfs/0001800.pdf) |  |
 | 2020 | Generative model-inversion attacks against deep neural networks | CVPR | white-box | [Paper](https://arxiv.org/pdf/1911.07135.pdf) | [code](https://github.com/AI-secure/GMI-Attack) |
-| 2029 | Privacy Preserving Facial Recognition Against Model Inversion Attacks | IEEE | white-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9322508) |  |
+| 2020 | Privacy Preserving Facial Recognition Against Model Inversion Attacks | IEEE | white-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9322508) |  |
 | 2020 | Broadening Differential Privacy for Deep LearningAgainst Model Inversion Attacks  | IEEE | white-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9378274) |  |
 
 
