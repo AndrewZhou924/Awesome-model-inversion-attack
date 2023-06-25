@@ -81,7 +81,23 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2022 | An Approximate Memory Based Defense Against Model Inversion Attacks to Neural Networks | | IEEE | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9792582&casa_token=ymT57RhNhGEAAAAA:WsQHMpv77-4uyIp7l-p4hc7_Qmxvn5TeNpS5F7LHBFHyLay2O8Pe5eWqsKN2fu56v98NZsRrqeit) | [Code](https://github.com/katekemu/model_inversion_defense) |
 | 2022 | Model Inversion Attack by Integration of Deep Generative Models: Privacy-Sensitive Face Generation From a Face Recognition System | | TIFS | [Paper](https://dl.acm.org/doi/abs/10.1109/TIFS.2022.3140687) | |
 | 2022 | Defending Against Reconstruction Attacks Through Differentially Private Federated Learning for Classification of Heterogeneous Chest X-Ray Data | | Arxiv | [Paper](https://arxiv.org/pdf/2205.03168.pdf) | |
-
+| 2023 | Sparse Black-Box Inversion Attack with Limited Information | IEEE | black-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095514) | [code](https://github.com/Tencent/TFace/tree/master/recognition) |
+| 2023 | Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack | Arxiv | black-box | [Paper](https://arxiv.org/pdf/2304.11436.pdf) | [code](https://github.com/FLAIR-THU/PairedLogitsInversion) |
+| 2023 | Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network | AAAI | white-box | [Paper](https://arxiv.org/pdf/2302.09814.pdf) | [code](https://github.com/lethesec/plg-mi-attack) |
+| 2023 | C2FMI: Corse-to-Fine Black-box Model Inversion Attack | IEEE | black-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148574) |  |
+| 2023 | Boosting Model Inversion Attacks with Adversarial Examples | IEEE | black-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148576) |  |
+| 2023 | Reinforcement Learning-Based Black-Box Model Inversion Attacks | CVPR | black-box | [Paper](https://arxiv.org/pdf/2304.04625.pdf) | [code](https://github.com/HanGyojin/RLB-MI) |
+| 2023 | Re-thinking Model Inversion Attacks Against Deep Neural Networks | CVPR | white-box | [Paper](https://arxiv.org/pdf/2304.01669.pdf) | [code](https://github.com/sutd-visual-computing-group/Re-thinking_MI) |
+| 2022 | One Parameter Defense—Defending Against Data Inference Attacks via Differential Privacy | IEEE | black-box | [Paper](https://arxiv.org/pdf/2203.06580.pdf) |  |
+| 2022 | Reconstructing Training Data from Diverse ML Models by Ensemble Inversion | WACV | white-box | [Paper](https://arxiv.org/pdf/2111.03702.pdf) |  |
+| 2022 | SecretGen: Privacy Recovery on Pre-trained Models via Distribution Discrimination | ECCV | white-box | [Paper](https://arxiv.org/pdf/2207.12263.pdf) |  |
+| 2022 | UnSplit: Data-Oblivious Model Inversion, Model Stealing, andLabel Inference Attacks Against Split Learning | WPES | S | [Paper](https://arxiv.org/pdf/2108.09033.pdf) | [code](https://github.com/ege-erdogan/unsplit) |
+| 2022 | MIRROR: Model Inversion for Deep LearningNetwork with High Fidelity | NDSS | white-box | [Paper](https://www.cs.purdue.edu/homes/an93/static/papers/ndss2022_model_inversion.pdf) | [code](https://github.com/njuaplusplus/mirror) |
+| 2021 | Practical Black Box Model Inversion Attacks Against Neural Nets | ECML PKDD | black-box | [Paper]() |  |
+| 2021 | Model Inversion Attack against a Face Recognition System in a Black-Box Setting | APSIPA | black-box | [Paper](http://www.apsipa.org/proceedings/2021/pdfs/0001800.pdf) |  |
+| 2020 | Generative model-inversion attacks against deep neural networks | CVPR | white-box | [Paper](https://arxiv.org/pdf/1911.07135.pdf) | [code](https://github.com/AI-secure/GMI-Attack) |
+| 2029 | Privacy Preserving Facial Recognition Against Model Inversion Attacks | IEEE | white-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9322508) |  |
+| 2020 | Broadening Differential Privacy for Deep LearningAgainst Model Inversion Attacks  | IEEE | white-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9378274) |  |
 
 
 USENIX Security 2014 - Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing.
