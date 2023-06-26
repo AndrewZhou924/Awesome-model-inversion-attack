@@ -61,6 +61,9 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2020 | Attacking and Protecting Data Privacy in Edge-Cloud Collaborative Inference Systems | | IoTJ | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9187880) | [Code](https://github.com/zechenghe/Inverse_Collaborative_Inference) |
 | 2020 | Black-Box Face Recovery from Identity Features | | ECCV Workshop | [Paper](https://arxiv.org/pdf/2007.13635.pdf) | |
 | 2020 | Defending model inversion and membership inference attacks via prediction purification | | Arxiv | [Paper](https://arxiv.org/pdf/2005.03915.pdf) | |
+| 2020 | Generative model-inversion attacks against deep neural networks | white-box | CVPR | [Paper](https://arxiv.org/pdf/1911.07135.pdf) | [code](https://github.com/AI-secure/GMI-Attack) |
+| 2020 | Privacy Preserving Facial Recognition Against Model Inversion Attacks | white-box | Globecom  | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9322508) |  |
+| 2020 | Broadening Differential Privacy for Deep LearningAgainst Model Inversion Attacks  | white-box | Big Data | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9378274) |  |
 | 2021 | Black-box adversarial attacks on commercial speech platforms with minimal information | | CCS | [Paper](https://dl.acm.org/doi/pdf/10.1145/3460120.3485383) | |
 | 2021 | Unleashing the tiger: Inference attacks on split learning | | CCS | [Paper](https://dl.acm.org/doi/pdf/10.1145/3460120.3485259) | [Code](https://github.com/pasquini-dario/SplitNN_FSHA) |
 | 2021 | Soteria: Provable defense against privacy leakage in federated learning from representation perspective | | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.pdf) | [Code](https://github.com/jeremy313/Soteria) |
@@ -73,6 +76,8 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2021 | PRID: Model Inversion Privacy Attacks in Hyperdimensional Learning Systems | | DAC | [Paper](https://dl.acm.org/doi/abs/10.1109/DAC18074.2021.9586217) | |
 | 2021 | Robustness of On-Device Models: Adversarial Attack to Deep Learning Models on Android Apps | | ICSE | [Paper](https://arxiv.org/pdf/2101.04401) | |
 | 2021 | Defending Against Model Inversion Attack by Adversarial Examples | | CSR Workshops | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527945) | |
+| 2021 | Practical Black Box Model Inversion Attacks Against Neural Nets | black-box | ECML PKDD | [Paper](https://link.springer.com/content/pdf/10.1007/978-3-030-93733-1.pdf?pdf=button) |  |
+| 2021 | Model Inversion Attack against a Face Recognition System in a Black-Box Setting | black-box | APSIPA | [Paper](http://www.apsipa.org/proceedings/2021/pdfs/0001800.pdf) |  |
 | 2022 | Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks | | ICML | [Paper](https://arxiv.org/pdf/2201.12179.pdf) | [Code](https://github.com/LukasStruppek/Plug-and-Play-Attacks) |
 | 2022 | Label-Only Model Inversion Attacks via Boundary Repulsion | | CVPR | [Paper](https://arxiv.org/pdf/2203.01925.pdf) | [Code](https://github.com/m-kahla/Label-Only-Model-Inversion-Attacks-via-Boundary-Repulsion) |
 | 2022 | ResSFL: A Resistance Transfer Framework for Defending Model Inversion Attack in Split Federated Learning | | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_ResSFL_A_Resistance_Transfer_Framework_for_Defending_Model_Inversion_Attack_CVPR_2022_paper.html) | [Code](https://github.com/zlijingtao/ResSFL) |
@@ -81,24 +86,18 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2022 | An Approximate Memory Based Defense Against Model Inversion Attacks to Neural Networks | | IEEE | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9792582&casa_token=ymT57RhNhGEAAAAA:WsQHMpv77-4uyIp7l-p4hc7_Qmxvn5TeNpS5F7LHBFHyLay2O8Pe5eWqsKN2fu56v98NZsRrqeit) | [Code](https://github.com/katekemu/model_inversion_defense) |
 | 2022 | Model Inversion Attack by Integration of Deep Generative Models: Privacy-Sensitive Face Generation From a Face Recognition System | | TIFS | [Paper](https://dl.acm.org/doi/abs/10.1109/TIFS.2022.3140687) | |
 | 2022 | Defending Against Reconstruction Attacks Through Differentially Private Federated Learning for Classification of Heterogeneous Chest X-Ray Data | | Arxiv | [Paper](https://arxiv.org/pdf/2205.03168.pdf) | |
-| 2023 | Sparse Black-Box Inversion Attack with Limited Information | IEEE | black-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095514) | [code](https://github.com/Tencent/TFace/tree/master/recognition) |
-| 2023 | Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack | Arxiv | black-box | [Paper](https://arxiv.org/pdf/2304.11436.pdf) | [code](https://github.com/FLAIR-THU/PairedLogitsInversion) |
-| 2023 | Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network | AAAI | white-box | [Paper](https://arxiv.org/pdf/2302.09814.pdf) | [code](https://github.com/lethesec/plg-mi-attack) |
-| 2023 | C2FMI: Corse-to-Fine Black-box Model Inversion Attack | IEEE | black-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148574) |  |
-| 2023 | Boosting Model Inversion Attacks with Adversarial Examples | IEEE | black-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148576) |  |
-| 2023 | Reinforcement Learning-Based Black-Box Model Inversion Attacks | CVPR | black-box | [Paper](https://arxiv.org/pdf/2304.04625.pdf) | [code](https://github.com/HanGyojin/RLB-MI) |
-| 2023 | Re-thinking Model Inversion Attacks Against Deep Neural Networks | CVPR | white-box | [Paper](https://arxiv.org/pdf/2304.01669.pdf) | [code](https://github.com/sutd-visual-computing-group/Re-thinking_MI) |
-| 2022 | One Parameter Defense—Defending Against Data Inference Attacks via Differential Privacy | IEEE | black-box | [Paper](https://arxiv.org/pdf/2203.06580.pdf) |  |
-| 2022 | Reconstructing Training Data from Diverse ML Models by Ensemble Inversion | WACV | white-box | [Paper](https://arxiv.org/pdf/2111.03702.pdf) |  |
-| 2022 | SecretGen: Privacy Recovery on Pre-trained Models via Distribution Discrimination | ECCV | white-box | [Paper](https://arxiv.org/pdf/2207.12263.pdf) |  |
-| 2022 | UnSplit: Data-Oblivious Model Inversion, Model Stealing, andLabel Inference Attacks Against Split Learning | WPES | S | [Paper](https://arxiv.org/pdf/2108.09033.pdf) | [code](https://github.com/ege-erdogan/unsplit) |
-| 2022 | MIRROR: Model Inversion for Deep LearningNetwork with High Fidelity | NDSS | white-box | [Paper](https://www.cs.purdue.edu/homes/an93/static/papers/ndss2022_model_inversion.pdf) | [code](https://github.com/njuaplusplus/mirror) |
-| 2021 | Practical Black Box Model Inversion Attacks Against Neural Nets | ECML PKDD | black-box | [Paper](https://link.springer.com/content/pdf/10.1007/978-3-030-93733-1.pdf?pdf=button) |  |
-| 2021 | Model Inversion Attack against a Face Recognition System in a Black-Box Setting | APSIPA | black-box | [Paper](http://www.apsipa.org/proceedings/2021/pdfs/0001800.pdf) |  |
-| 2020 | Generative model-inversion attacks against deep neural networks | CVPR | white-box | [Paper](https://arxiv.org/pdf/1911.07135.pdf) | [code](https://github.com/AI-secure/GMI-Attack) |
-| 2020 | Privacy Preserving Facial Recognition Against Model Inversion Attacks | IEEE | white-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9322508) |  |
-| 2020 | Broadening Differential Privacy for Deep LearningAgainst Model Inversion Attacks  | IEEE | white-box | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9378274) |  |
-
+| 2022 | One Parameter Defense—Defending Against Data Inference Attacks via Differential Privacy | black-box | TIFS | [Paper](https://arxiv.org/pdf/2203.06580.pdf) |  |
+| 2022 | Reconstructing Training Data from Diverse ML Models by Ensemble Inversion | white-box | WACV | [Paper](https://arxiv.org/pdf/2111.03702.pdf) |  |
+| 2022 | SecretGen: Privacy Recovery on Pre-trained Models via Distribution Discrimination | white-box | ECCV | [Paper](https://arxiv.org/pdf/2207.12263.pdf) |  |
+| 2022 | UnSplit: Data-Oblivious Model Inversion, Model Stealing, andLabel Inference Attacks Against Split Learning | S | WPES | [Paper](https://arxiv.org/pdf/2108.09033.pdf) | [code](https://github.com/ege-erdogan/unsplit) |
+| 2022 | MIRROR: Model Inversion for Deep LearningNetwork with High Fidelity | white-box | NDSS | [Paper](https://www.cs.purdue.edu/homes/an93/static/papers/ndss2022_model_inversion.pdf) | [code](https://github.com/njuaplusplus/mirror) |
+| 2023 | Sparse Black-Box Inversion Attack with Limited Information | black-box | ICASSP | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095514) | [code](https://github.com/Tencent/TFace/tree/master/recognition) |
+| 2023 | Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack | black-box | CVPR | [Paper](https://arxiv.org/pdf/2304.11436.pdf) | [code](https://github.com/FLAIR-THU/PairedLogitsInversion) |
+| 2023 | Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network | white-box | AAAI | [Paper](https://arxiv.org/pdf/2302.09814.pdf) | [code](https://github.com/lethesec/plg-mi-attack) |
+| 2023 | C2FMI: Corse-to-Fine Black-box Model Inversion Attack | black-box | TDSC | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148574) |  |
+| 2023 | Boosting Model Inversion Attacks with Adversarial Examples | black-box | TDSC | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148576) |  |
+| 2023 | Reinforcement Learning-Based Black-Box Model Inversion Attacks | black-box | CVPR | [Paper](https://arxiv.org/pdf/2304.04625.pdf) | [code](https://github.com/HanGyojin/RLB-MI) |
+| 2023 | Re-thinking Model Inversion Attacks Against Deep Neural Networks | white-box | CVPR | [Paper](https://arxiv.org/pdf/2304.01669.pdf) | [code](https://github.com/sutd-visual-computing-group/Re-thinking_MI) |
 
 USENIX Security 2014 - Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing.
 [[paper]](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-fredrikson-privacy.pdf)
@@ -172,6 +171,16 @@ ECCV 2020 Workshop - Black-Box Face Recovery from Identity Features.
 Arxiv 2020 - Defending model inversion and membership inference attacks via prediction purification.
 [[paper]](https://arxiv.org/pdf/2005.03915.pdf)
 
+CVPR 2020 - Generative model-inversion attacks against deep neural networks
+[[paper]](https://arxiv.org/pdf/1911.07135.pdf)
+[[code]](https://github.com/AI-secure/GMI-Attack)
+
+Globecom 2020 - Privacy Preserving Facial Recognition Against Model Inversion Attacks
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9322508)
+
+Big Data 2020 - Broadening Differential Privacy for Deep LearningAgainst Model Inversion Attacks 
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9378274)
+
 IJCAI 2021 - Contrastive Model Inversion for Data-Free Knowledge Distillation.
 [[paper]](https://www.ijcai.org/proceedings/2021/0327.pdf)
 [[code]](https://github.com/zju-vipa/CMI)
@@ -236,6 +245,12 @@ ICSE 2021 - Robustness of on-device models: Adversarial attack to deep learning 
 CSR Workshops 2021 - Defending Against Model Inversion Attack by Adversarial Examples.
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527945)
 
+ECML PKDD 2021 - Practical Black Box Model Inversion Attacks Against Neural Nets
+[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-93733-1.pdf?pdf=button)
+
+APSIPA 2021 - Model Inversion Attack against a Face Recognition System in a Black-Box Setting
+[[paper]](http://www.apsipa.org/proceedings/2021/pdfs/0001800.pdf)
+
 ICML 2022 - Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks.
 [[paper]](https://arxiv.org/pdf/2201.12179.pdf)
 [[code]](https://github.com/LukasStruppek/Plug-and-Play-Attacks)
@@ -266,36 +281,7 @@ TIFS 2022 - Model Inversion Attack by Integration of Deep Generative Models: Pri
 Arxiv 2022 - Defending against Reconstruction Attacks through Differentially Private Federated Learning for Classification of Heterogeneous Chest X-Ray Data.
 [[paper]](https://arxiv.org/pdf/2205.03168.pdf)
 
-IEEE 2021  - Defending Against Model Inversion Attack by Adversarial Examples.
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527945&tag=1)
-
-IEEE 2023 - Sparse Black-Box Inversion Attack with Limited Information
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095514)
-[[code]](https://github.com/Tencent/TFace/tree/master/recognition)
-
-Arxiv 2023 - Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack
-[[paper]](https://arxiv.org/pdf/2304.11436.pdf)
-[[code]](https://github.com/FLAIR-THU/PairedLogitsInversion)
-
-AAAI 2023 - Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network
-[[paper]](https://arxiv.org/pdf/2302.09814.pdf)
-[[code]](https://github.com/lethesec/plg-mi-attack)
-
-IEEE 2023 - C2FMI: Corse-to-Fine Black-box Model Inversion Attack
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148574)
-
-IEEE 2023 - Boosting Model Inversion Attacks with Adversarial Examples
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148576)
-
-CVPR 2023 - Reinforcement Learning-Based Black-Box Model Inversion Attacks
-[[paper]](https://arxiv.org/pdf/2304.04625.pdf)
-[[code]](https://github.com/HanGyojin/RLB-MI)
-
-CVPR 2023 - Re-thinking Model Inversion Attacks Against Deep Neural Networks
-[[paper]](https://arxiv.org/pdf/2304.01669.pdf) 
-[[code]](https://github.com/sutd-visual-computing-group/Re-thinking_MI) |
-
-IEEE 2022 - One Parameter Defense—Defending Against Data Inference Attacks via Differential Privacy
+TIFS 2022 - One Parameter Defense—Defending Against Data Inference Attacks via Differential Privacy
 [[paper]](https://arxiv.org/pdf/2203.06580.pdf)
 
 WACV 2022 - Reconstructing Training Data from Diverse ML Models by Ensemble Inversion
@@ -312,21 +298,31 @@ NDSS 2022 - MIRROR: Model Inversion for Deep LearningNetwork with High Fidelity
 [[paper]](https://www.cs.purdue.edu/homes/an93/static/papers/ndss2022_model_inversion.pdf)
 [[code]](https://github.com/njuaplusplus/mirror) |
 
-ECML PKDD 2021 - Practical Black Box Model Inversion Attacks Against Neural Nets
-[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-93733-1.pdf?pdf=button)
+ICASSP 2023 - Sparse Black-Box Inversion Attack with Limited Information
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095514)
+[[code]](https://github.com/Tencent/TFace/tree/master/recognition)
 
-APSIPA 2021 - Model Inversion Attack against a Face Recognition System in a Black-Box Setting
-[[paper]](http://www.apsipa.org/proceedings/2021/pdfs/0001800.pdf)
+CVPR 2023 - Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack
+[[paper]](https://arxiv.org/pdf/2304.11436.pdf)
+[[code]](https://github.com/FLAIR-THU/PairedLogitsInversion)
 
-CVPR 2020 - Generative model-inversion attacks against deep neural networks
-[[paper]](https://arxiv.org/pdf/1911.07135.pdf)
-[[code]](https://github.com/AI-secure/GMI-Attack)
+AAAI 2023 - Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network
+[[paper]](https://arxiv.org/pdf/2302.09814.pdf)
+[[code]](https://github.com/lethesec/plg-mi-attack)
 
-IEEE 2020 - Privacy Preserving Facial Recognition Against Model Inversion Attacks
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9322508)
+TDSC 2023 - C2FMI: Corse-to-Fine Black-box Model Inversion Attack
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148574)
 
-IEEE 2020 - Broadening Differential Privacy for Deep LearningAgainst Model Inversion Attacks 
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9378274)
+TDSC 2023 - Boosting Model Inversion Attacks with Adversarial Examples
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148576)
+
+CVPR 2023 - Reinforcement Learning-Based Black-Box Model Inversion Attacks
+[[paper]](https://arxiv.org/pdf/2304.04625.pdf)
+[[code]](https://github.com/HanGyojin/RLB-MI)
+
+CVPR 2023 - Re-thinking Model Inversion Attacks Against Deep Neural Networks
+[[paper]](https://arxiv.org/pdf/2304.01669.pdf) 
+[[code]](https://github.com/sutd-visual-computing-group/Re-thinking_MI) |
 
 ## Graph learning domain
 | Year | Title | Adversarial Knowledge | Venue | Paper Link | Code Link |
