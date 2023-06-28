@@ -398,12 +398,16 @@ ICML 2023 - On Strengthening and Defending Graph Reconstruction Attack with Mark
 ## Natural language processing domain
 | Year | Title | Adversarial Knowledge | Venue | Paper Link | Code Link |
 | ---- | ----- | -------------------- | ----- | ---------- | --------- |
+| 2018 | Privacy-preserving Neural Representations of Text | white-box | EMNLP | [Paper](https://arxiv.org/pdf/1808.09408.pdf) | [code](https://github.com/mcoavoux/pnet) |
 | 2020 | Extracting Training Data from Large Language Models |  black-box | USENIX Security | [Paper](https://arxiv.org/pdf/2012.07805.pdf) | [code](https://arxiv.org/pdf/2012.07805.pdf) |
 | 2020 | Privacy Risks of General-Purpose Language Models | black & white-box | S&P | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152761) |  |
-| 2018 | Privacy-preserving Neural Representations of Text | white-box | EMNLP | [Paper](https://arxiv.org/pdf/1808.09408.pdf) | [code](https://github.com/mcoavoux/pnet) |
-| 2021 | TAG: Gradient Attack on Transformer-based Language Models | white-box | EMNLP | [Paper](https://arxiv.org/pdf/2103.06819.pdf) |  |
 | 2020 | Information Leakage in Embedding Models | black & white-box | CCS | [Paper](https://arxiv.org/pdf/2004.00053.pdf) |  |
-| 2022 | Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers| white-box| Arxiv | [Paper](https://arxiv.org/pdf/2209.10505.pdf) |  |
+| 2021 | TAG: Gradient Attack on Transformer-based Language Models | white-box | EMNLP | [Paper](https://arxiv.org/pdf/2103.06819.pdf) |  |
+| 2022 | KART: Parameterization of Privacy Leakage Scenarios from Pre-trained Language Models | black-box | Arxiv | [paper](https://arxiv.org/abs/2101.00036v1) | [code](https://github.com/yutanakamura-tky/kart) |
+| 2022 | Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers | white-box | Arxiv | [Paper](https://arxiv.org/pdf/2209.10505.pdf) |  |
+| 2022 | Canary Extraction in Natural Language Understanding Models | white-box | ACL | [paper](https://arxiv.org/pdf/2203.13920.pdf) |  |
+| 2022 | Recovering Private Text in Federated Learning of Language Models | white-box | NeurIPS | [paper](https://arxiv.org/pdf/2205.08514.pdf) | [code](https://github.com/princeton-sysml/film) |
+| 2023 | Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence | box | ACL | [paper](https://arxiv.org/pdf/2305.03010.pdf) | [code](https://github.com/hkust-knowcomp/geia) |
 
 CCS 2020 - Information Leakage in Embedding Models.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3372297.3417270?casa_token=0ltuTKcG5cIAAAAA:YcpnOm4WlV0UnSS2dOWdtcnFh6DqSygG9MuS31gGQEgMxOBHQKeXsoNGkFhEw8gvlqY78gTkaRn9gUo)
