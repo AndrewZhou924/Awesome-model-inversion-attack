@@ -12,7 +12,9 @@ If some related papers are missing, please contact us via pull requests.
 - [What is the model inversion attack?](#what-is-the-model-inversion-attack)
 - [Survey](#survey)
 - [Computer vision domain](#computer-vision-domain)
+  - [TODO](#todo)
 - [Graph learning domain](#graph-learning-domain)
+  - [TODO](#todo-1)
 - [Natural language processing domain](#natural-language-processing-domain)
 - [Tools](#tools)
 - [Others](#others)
@@ -41,8 +43,29 @@ Arxiv 2022 - A Survey of Trustworthy Graph Learning: Reliability, Explainability
 [[paper]](https://arxiv.org/pdf/2205.10014.pdf)
 
 Philosophical Transactions of the Royal Society A 2018. Algorithms that remember: model inversion attacks and data protection law.
-
 [[paper]](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2018.0083)
+
+(Rigaki and Garcia, 2020) A Survey of Privacy Attacks in Machine Learning [[paper]](https://arxiv.org/abs/2007.07646)
+
+(De Cristofaro, 2020) An Overview of Privacy in Machine Learning [[paper]](https://arxiv.org/pdf/2005.08679) 
+
+(Fan et al., 2020) Rethinking Privacy Preserving Deep Learning: How to Evaluate and Thwart Privacy Attacks [[paper]](https://arxiv.org/abs/2006.11601)
+
+(Liu et al., 2021) Privacy and Security Issues in Deep Learning: A Survey [[paper]](https://ieeexplore.ieee.org/abstract/document/9294026)
+
+(Liu et al., 2021) ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models [[paper]](https://arxiv.org/abs/2102.02551)
+
+(Hu et al., 2021) Membership Inference Attacks on Machine Learning: A Survey [[paper]](https://arxiv.org/abs/2103.07853)
+
+(Jegorova et al., 2021) Survey: Leakage and Privacy at Inference Time [[paper]](https://arxiv.org/abs/2107.01614)
+
+(Joud et al., 2021) A Review of Confidentiality Threats Against Embedded Neural Network Models [[paper]](https://arxiv.org/abs/2105.01401)
+
+(Wainakh et al., 2021) Federated Learning Attacks Revisited: A Critical Discussion of Gaps, Assumptions, and Evaluation Setups [[paper]](https://arxiv.org/abs/2111.03363)
+
+(Oliynyk et al., 2022) I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences [[paper]](https://arxiv.org/abs/2206.08451)
+
+
 
 
 ## Computer vision domain
@@ -171,6 +194,34 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2023 | Boosting Model Inversion Attacks with Adversarial Examples | black-box | TDSC | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148576) |  |
 | 2023 | Reinforcement Learning-Based Black-Box Model Inversion Attacks | black-box | CVPR | [Paper](https://arxiv.org/pdf/2304.04625.pdf) | [code](https://github.com/HanGyojin/RLB-MI) |
 | 2023 | Re-thinking Model Inversion Attacks Against Deep Neural Networks | white-box | CVPR | [Paper](https://arxiv.org/pdf/2304.01669.pdf) | [code](https://github.com/sutd-visual-computing-group/Re-thinking_MI) |
+
+
+### TODO
+| Year          | Title                                                                                         | Adversarial Knowledge | Venue              | Paper Link                                                                                                                          | Code Link                                                   |
+| :-----------: | --------------------------------------------------------------------------------------------- | --------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 2019   | The secret sharer: Evaluating and testing unintended memorization in neural networks          | white-box             | USENIX         | [Paper](https://www.usenix.org/system/files/sec19-carlini.pdf)                                                                      |                                                             |
+| 2019     | Deep leakage from gradients                                                                   | white-box             | NIPS         | [Paper](https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf)                                                        | [code](https://github.com/mit-han-lab/dlg)                   |
+| 2020     | Inverting Gradients - How easy is it to break privacy in federated learning?                  | white-box             | NIPS             | [Paper](https://arxiv.org/abs/2003.14053)                                                                                          |                                                             |
+| 2018    | Reconstruction of training samples from loss functions                                        | -                     | arXiv        | [Paper](https://arxiv.org/pdf/1805.07337.pdf)                                                                                      |                                                             |
+| 2022     | Reconstructing Training Data from Trained Neural Networks                                      | white-box             | NIPS             | [Paper](https://arxiv.org/abs/2206.07758)                                                                                          |                                                             |
+| 2020     | A Framework for Evaluating Gradient Leakage Attacks in Federated Learning                     | white-box             | CoRR             | [Paper](https://arxiv.org/pdf/2004.10397.pdf)                                                                                      |                                                             |
+| 2017      | Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning                | both                  | CCS              | [Paper](https://arxiv.org/pdf/1702.07464.pdf)                                                                                      |                                                             |
+| 2019 | Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning | white-box             | IEEE INFOCOM     | [Paper](https://arxiv.org/pdf/1812.00535.pdf)                                                                                      |                                                             |
+| 2020    | Evaluation Indicator for Model Inversion Attack                                                | metric                | AdvML            | [Paper](https://drive.google.com/file/d/1rl77BGtGHzZ8obWUEOoqunXCjgvpzE8d/view)                                                     |                                                             |
+| -            | An Attack-Based Evaluation Method for Differentially Private Learning Against Model Inversion Attack | white-box             | arXiv            | [Paper](https://ieeexplore.ieee.org/document/8822435)                                                                              |                                                             |
+| 2020    | SAPAG: A Self-Adaptive Privacy Attack From Gradients                                           | white-box             | arXiv            | [Paper](https://arxiv.org/abs/2009.06228)                                                                                          |                                                             |
+| 2022   | Exploring the Security Boundary of Data Reconstruction via Neuron Exclusivity Analysis                | white-box             | USENIX                              | [Paper](https://arxiv.org/abs/2010.13356)                                                                                          |           |
+| 2020    | Knowledge-Enriched Distributional Model Inversion Attacks                                              | white-box             | arXiv                               | [Paper](https://arxiv.org/abs/2010.04092)                                                                                          |           |
+| 2020    | MixCon: Adjusting the Separability of Data Representations for Harder Data Recovery                   | white-box             | arXiv                               | [Paper](https://arxiv.org/abs/2010.11463)                                                                                          |           |
+| 2020    | Evaluation of Inference Attack Models for Deep Learning on Medical Data                                | black-box             | arXiv                               | [Paper](https://arxiv.org/abs/2011.00177)                                                                                          |           |
+| 2020    | FaceLeaks: Inference Attacks against Transfer Learning Models via Black-box Queries                   | black-box             | arXiv                               | [Paper](https://arxiv.org/abs/2010.14023)                                                                                          |           |
+| -             | Derivation of Constraints from Machine Learning Models and Applications to Security and Privacy        | Theory                | A                                     | [Paper](https://hal.archives-ouvertes.fr/hal-03091740/)                                                                            |           |
+| 2021 | On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models                     | both                  | IEEE EuroS&P                        | [Paper](https://arxiv.org/abs/2103.07101)                                                                                          |           |
+| 2021     | R-GAP: Recursive Gradient Attack on Privacy                                                           | white-box             | ICLR                                | [Paper](https://arxiv.org/abs/2010.07733)                                                                                          |           |
+| 2021    | PRECODE - A Generic Model Extension to Prevent Deep Gradient Leakage                                  | white-box             | arXiv                               | [Paper](https://arxiv.org/abs/2108.04725)                                                                                          |           |
+| 2021    | On the Importance of Encrypting Deep Features                                                          | black-box             | arXiv                               | [Paper](https://arxiv.org/abs/2108.07147)                                                                                          |           |
+| 2022    | Reconstructing Training Data with Informed Adversaries                                                  | white-box             | arXiv                               | [Paper](https://arxiv.org/abs/2201.04845)                                                                                          |           |
+| 2022    | Privacy Vulnerability of Split Computing to Data-Free Model Inversion Attacks                          | white-box             | arXiv                               | [Paper](https://arxiv.org/abs/2107.06304)                                                                                          |           |
 
 
 <!-- USENIX Security 2014 - Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing.
@@ -423,7 +474,28 @@ CVPR 2023 - Re-thinking Model Inversion Attacks Against Deep Neural Networks
 | 2022 | Finding MNEMON: Reviving Memories of Node Embeddings | - | CCS | [Paper](https://arxiv.org/pdf/2204.06963.pdf) | - |
 | 2022 | Defense against membership inference attack in graph neural networks through graph perturbation | - | IJIS | [Paper](https://link.springer.com/article/10.1007/s10207-022-00646-y) | - |
 | 2022 | Model Inversion Attacks against Graph Neural Networks | - | TKDE | [Paper](https://arxiv.org/pdf/2209.07807.pdf) | - |
-| 2023 | On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation | - | ICML | [Paper](https://openreview.net/pdf?id=Vcl3qckVyh) | [Code](https://github.com/tmlr-group/MC-GRA) |
+| 2023 | On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation | - | ICML | 
+[Paper](https://openreview.net/pdf?id=Vcl3qckVyh) | [Code](https://github.com/tmlr-group/MC-GRA) |
+
+### TODO
+| Year | Title | Venue | Paper Link | Code Link |
+| ---- | ----- | ----- | ---------- | --------- | 
+| 2021 | Membership Inference Attack on Graph Neural Networks | International Conference on Trust, Privacy and Security in Intelligent Systems and Applications | [Paper](https://arxiv.org/pdf/2101.06570.pdf) | - |
+| 2020 | Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realisation | ACM Asia Conference on Computer and Communications Security | [Paper](https://arxiv.org/pdf/2010.12751.pdf) | - |
+| 2021 | Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications | Industrial Conference on Data Mining | [Paper](https://arxiv.org/pdf/2110.08760.pdf) |  - |
+| 2020 | Locally Private Graph Neural Networks | Conference on Computer and Communications Security | [Paper](https://arxiv.org/pdf/2006.05535.pdf) |  - |
+| 2020 | Backdoor Attacks to Graph Neural Networks | ACM Symposium on Access Control Models and Technologies | [Paper](https://arxiv.org/pdf/2006.11165.pdf) | - |
+| 2019 | Attacking Graph-based Classification via Manipulating the Graph Structure | Conference on Computer and Communications Security | [Paper](https://arxiv.org/pdf/1903.00553.pdf) | - |
+| 2021 | Private Graph Data Release: A Survey | ACM Computing Surveys | [Paper](https://arxiv.org/pdf/2107.04245.pdf) |
+| 2022 | Differentially Private Graph Neural Networks for Whole-Graph Classification | IEEE Transactions on Pattern Analysis and Machine Intelligence | [Paper](https://ieeexplore.ieee.org/ielx7/34/4359286/09980390.pdf) | - |
+| ---- | Node-Differentially Private Estimation of the Number of Connected Components | arXiv | [Paper](https://arxiv.org/pdf/2304.05890.pdf) | - |
+| 2022 | LPGNet: Link Private Graph Networks for Node Classification | Conference on Computer and Communications Security | [Paper](https://arxiv.org/pdf/2205.03105.pdf) | - |
+| ---- | Releasing Graph Neural Networks with Differential Privacy Guarantees | arXiv | [Paper](https://arxiv.org/pdf/2109.08907.pdf) | - |
+| 2021 | DPGraph: A Benchmark Platform for Differentially Private Graph Analysis | SIGMOD Conference | [Paper](https://dl.acm.org/doi/pdf/10.1145/3448016.3452756) | - |
+| 2015 | Private Release of Graph Statistics using Ladder Functions | SIGMOD Conference | [Paper](http://wrap.warwick.ac.uk/67368/7/WRAP_Cormode.pdf) | - |
+| 2021 | LINKTELLER: Recovering Private Edges from Graph Neural Networks via Influence Analysis | IEEE Symposium on Security and Privacy | [Paper](https://arxiv.org/pdf/2108.06504.pdf) | - |
+| ---- | GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation | arXiv | [Paper](https://arxiv.org/pdf/2203.00949.pdf) | - |
+| ---- | GrOVe: Ownership Verification of Graph Neural Networks using Embeddings | arXiv | [Paper](https://arxiv.org/pdf/2304.08566.pdf) | - |
 
 <!-- 
 USENIX Security 2020 - Stealing Links from Graph Neural Networks.
@@ -494,12 +566,13 @@ ICML 2023 - On Strengthening and Defending Graph Reconstruction Attack with Mark
 | 2020 | Extracting Training Data from Large Language Models |  black-box | USENIX Security | [Paper](https://arxiv.org/pdf/2012.07805.pdf) | [code](https://arxiv.org/pdf/2012.07805.pdf) |
 | 2020 | Privacy Risks of General-Purpose Language Models | black & white-box | S&P | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152761) |  |
 | 2020 | Information Leakage in Embedding Models | black & white-box | CCS | [Paper](https://arxiv.org/pdf/2004.00053.pdf) |  |
+| 2020    | KART: Privacy Leakage Framework of Language Models Pre-trained with Clinical Records                  | black-box             | arXiv                              | [Paper](https://arxiv.org/abs/2101.00036)                                                                                          |           |
 | 2021 | TAG: Gradient Attack on Transformer-based Language Models | white-box | EMNLP | [Paper](https://arxiv.org/pdf/2103.06819.pdf) |  |
 | 2022 | KART: Parameterization of Privacy Leakage Scenarios from Pre-trained Language Models | black-box | Arxiv | [paper](https://arxiv.org/pdf/2101.00036v1.pdf) | [code](https://github.com/yutanakamura-tky/kart) |
 | 2022 | Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers | white-box | Arxiv | [Paper](https://arxiv.org/pdf/2209.10505.pdf) |  |
 | 2022 | Canary Extraction in Natural Language Understanding Models | white-box | ACL | [paper](https://arxiv.org/pdf/2203.13920.pdf) |  |
 | 2022 | Recovering Private Text in Federated Learning of Language Models | white-box | NeurIPS | [paper](https://arxiv.org/pdf/2205.08514.pdf) | [code](https://github.com/princeton-sysml/film) |
-| 2023 | Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence | box | ACL | [paper](https://arxiv.org/pdf/2305.03010.pdf) | [code](https://github.com/hkust-knowcomp/geia) |
+| 2023 | Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence | black-box | ACL | [paper](https://arxiv.org/pdf/2305.03010.pdf) | [code](https://github.com/hkust-knowcomp/geia) |
 
 <!-- CCS 2020 - Information Leakage in Embedding Models.
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3372297.3417270?casa_token=0ltuTKcG5cIAAAAA:YcpnOm4WlV0UnSS2dOWdtcnFh6DqSygG9MuS31gGQEgMxOBHQKeXsoNGkFhEw8gvlqY78gTkaRn9gUo)
@@ -518,6 +591,16 @@ Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Atta
 
 [ml-attack-framework](https://github.com/Pilladian/ml-attack-framework): Universität des Saarlandes - Privacy Enhancing Technologies 2021 - Semester Project.
 
+(Trail of Bits) PrivacyRaven [[GitHub]](https://github.com/trailofbits/PrivacyRaven)
+
+(TensorFlow) TensorFlow Privacy [[GitHub]](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack)
+
+(NUS Data Privacy and Trustworthy Machine Learning Lab) Machine Learning Privacy Meter [[GitHub]](https://github.com/privacytrustlab/ml_privacy_meter)
+
+(IQT Labs/Lab 41) CypherCat (archive-only) [[GitHub]](https://github.com/Lab41/cyphercat)
+
+(IBM) Adversarial Robustness Toolbox (ART) [[GitHub]](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+
 
 ## Others
 2019 - Uncovering a model’s secrets.
@@ -532,6 +615,10 @@ Arxiv 2022 - Text Revealer: Private Text Reconstruction via Model Inversion Atta
 
 2021 - ML and DP.
 [[slides]](https://www.cs.toronto.edu/~toni/Courses/Fairness/Lectures/ML-and-DP-v2.pdf)
+
+2023 - arXiv
+A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data
+[[paper]](https://arxiv.org/abs/2301.)
 
 
 ## Related repositories
