@@ -14,7 +14,6 @@ If some related papers are missing, please contact us via pull requests :)
 - [What is the model inversion attack?](#what-is-the-model-inversion-attack)
 - [Survey](#survey)
 - [Computer vision domain](#computer-vision-domain)
-  - [TODO](#todo)
 - [Graph learning domain](#graph-learning-domain)
 - [Natural language processing domain](#natural-language-processing-domain)
 - [Tools](#tools)
@@ -31,9 +30,6 @@ The goal of model inversion attacks is to recreate training data or sensitive at
 In model inversion attacks, a malicious user attempts to recover the private dataset used to train a supervised neural network. A successful model inversion attack should generate realistic and diverse samples that accurately describe each of the classes in the private dataset. (Wang et al, 2021.)
 
 ## Survey
-Arxiv 2021 - A Survey of Privacy Attacks in Machine Learning.
-[[paper]](https://arxiv.org/pdf/2007.07646.pdf)
-
 Arxiv 2022 - A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability.
 [[paper]](https://arxiv.org/pdf/2204.08570.pdf)
 
