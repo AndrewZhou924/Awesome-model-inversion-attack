@@ -144,7 +144,7 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2020 | Overlearning Reveals Sensitive Attributes | white-box | ICLR | [Paper](https://arxiv.org/pdf/1905.11742.pdf) | - | - |
 | 2020 | Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator | white-box | APSIPA ASC | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9306253&casa_token=AWugOvIe0I0AAAAA:9wICCkMcfoljMqooM-lgl8m-6F6-cEl-ClHgNkE1SV8mZwqvBIaJ1HDjT1RWLyBz_P7tdB51jQVL&tag=1) | - | - |
 | 2020 | Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning | black-box | USENIX Security | [Paper](https://www.usenix.org/system/files/sec20-salem.pdf) | - | - |
-| 2020 | Attacking and Protecting Data Privacy in Edge-Cloud Collaborative Inference Systems | (collaborative inference) | IoT-J | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9187880) | [Code](https://github.com/zechenghe/Inverse_Collaborative_Inference) | - |
+| 2020 | Attacking and Protecting Data Privacy in Edge-Cloud Collaborative Inference Systems | black-box (collaborative inference) | IoT-J | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9187880) | [Code](https://github.com/zechenghe/Inverse_Collaborative_Inference) | - |
 | 2020 | Black-Box Face Recovery from Identity Features | black-box | ECCV Workshop | [Paper](https://arxiv.org/pdf/2007.13635.pdf) | - | - |
 | 2020 | MixCon: Adjusting the Separability of Data Representations for Harder Data Recovery | white-box | arXiv  | [Paper](https://arxiv.org/abs/2010.11463) 
 | 2020 | Privacy Preserving Facial Recognition Against Model Inversion Attacks | white-box (defense) | Globecom | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9322508) | - | - |
@@ -166,11 +166,10 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2022 | Bilateral Dependency Optimization: Defending Against Model-inversion Attacks | white-box (defense) | KDD | [Paper](https://arxiv.org/pdf/2206.05483.pdf) | [Code](https://github.com/xpeng9719/Defend_MI) |
 | 2022 | ML-DOCTOR: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models | holistic risk assessment | USENIX Security | [Paper](https://www.usenix.org/system/files/sec22summer_liu-yugeng.pdf) | [Code](https://github.com/liuyugeng/ML-Doctor) |
 | 2022 | Model Inversion Attack by Integration of Deep Generative Models: Privacy-Sensitive Face Generation From a Face Recognition System | white-box | TIFS | [Paper](https://dl.acm.org/doi/abs/10.1109/TIFS.2022.3140687) | - |
-| 2022 | Defending against Reconstruction Attacks through Differentially Private Federated Learning for Classification of Heterogeneous Chest X-Ray Data | - | Arxiv | [Paper](https://arxiv.org/pdf/2205.03168.pdf) | - |
-| 2022 | One Parameter Defense—Defending Against Data Inference Attacks via Differential Privacy | black-box | TIFS | [Paper](https://arxiv.org/pdf/2203.06580.pdf) |  |
+| 2022 | One Parameter Defense—Defending Against Data Inference Attacks via Differential Privacy | black-box (defense) | TIFS | [Paper](https://arxiv.org/pdf/2203.06580.pdf) |  |
 | 2022 | Reconstructing Training Data from Diverse ML Models by Ensemble Inversion | white-box | WACV | [Paper](https://arxiv.org/pdf/2111.03702.pdf) |  |
 | 2022 | SecretGen: Privacy Recovery on Pre-trained Models via Distribution Discrimination | white-box | ECCV | [Paper](https://arxiv.org/pdf/2207.12263.pdf) |  |
-| 2022 | UnSplit: Data-Oblivious Model Inversion, Model Stealing, and Label Inference Attacks Against Split Learning | - | WPES | [Paper](https://arxiv.org/pdf/2108.09033.pdf) | [code](https://github.com/ege-erdogan/unsplit) |
+| 2022 | UnSplit: Data-Oblivious Model Inversion, Model Stealing, and Label Inference Attacks Against Split Learning | black-box (split learnig) | WPES | [Paper](https://arxiv.org/pdf/2108.09033.pdf) | [code](https://github.com/ege-erdogan/unsplit) |
 | 2022 | MIRROR: Model Inversion for Deep LearningNetwork with High Fidelity | white-box | NDSS | [Paper](https://www.cs.purdue.edu/homes/an93/static/papers/ndss2022_model_inversion.pdf) | [code](https://github.com/njuaplusplus/mirror) |
 | 2022 | Reconstructing Training Data with Informed Adversaries | white-box  | SP | [Paper](https://arxiv.org/abs/2201.04845)   |           |
 | 2022 | Privacy Vulnerability of Split Computing to Data-Free Model Inversion Attacks  | white-box | BMVC | [Paper](https://arxiv.org/abs/2107.06304)   
