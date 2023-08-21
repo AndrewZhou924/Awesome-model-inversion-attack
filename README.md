@@ -182,6 +182,7 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2023 | Reinforcement Learning-Based Black-Box Model Inversion Attacks | black-box | CVPR | [Paper](https://arxiv.org/pdf/2304.04625.pdf) | [code](https://github.com/HanGyojin/RLB-MI) |
 | 2023 | Re-thinking Model Inversion Attacks Against Deep Neural Networks | white-box | CVPR | [Paper](https://arxiv.org/pdf/2304.01669.pdf) | [code](https://github.com/sutd-visual-computing-group/Re-thinking_MI) |
 | 2023 | Purifier: Defending Data Inference Attacks via Transforming Confidence Scores | black-box (defense) | AAAI | [Paper](https://arxiv.org/pdf/2005.03915.pdf) | - | - |
+| 2023 | Unstoppable Attack: Label-Only Model Inversion via Conditional Diffusion Model | black-box | CCS | [Paper](https://arxiv.org/pdf/2307.08424.pdf) | - | - |
 
 
 <!--
