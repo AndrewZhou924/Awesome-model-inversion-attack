@@ -541,7 +541,8 @@ ICML 2023 - On Strengthening and Defending Graph Reconstruction Attack with Mark
 | 2022 | Are Large Pre-Trained Language Models Leaking Your Personal Information?   | white-box | NAACL | [paper](https://aclanthology.org/2022.findings-emnlp.148.pdf) | [code](https://github.com/jeffhj/LM_PersonalInfoLeak) |
 | 2022 | Recovering Private Text in Federated Learning of Language Models | white-box | NeurIPS | [paper](https://arxiv.org/pdf/2205.08514.pdf) | [code](https://github.com/princeton-sysml/film) |
 | 2023 | Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence | black-box | ACL | [paper](https://arxiv.org/pdf/2305.03010.pdf) | [code](https://github.com/hkust-knowcomp/geia) |
-| 2023 | Deconstructing Classifiers: Towards A Data Reconstruction Attack Against Text Classification Models | white-box | Arxiv | [Paper](https://arxiv.org/pdf/2402.07841.pdf) |  |
+| 2023 | Deconstructing Classifiers: Towards A Data Reconstruction Attack Against Text Classification Models | white-box | Arxiv | [Paper](https://arxiv.org/pdf/2306.13789.pdf) |  |
+| 2023 | Do Membership Inference Attacks Work on Large Language Models? | white-box | Arxiv | [Paper](https://arxiv.org/pdf/2402.07841.pdf) |  |
 
 <!-- 
 USENIX Security 2020 - Extracting Training Data from Large Language Models
