@@ -62,7 +62,7 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 
 (Oliynyk et al., 2022) I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences [[paper]](https://arxiv.org/abs/2206.08451)
 
-
+(Dibbo, S.V., 2023) SoK: Model Inversion Attack Landscape: Taxonomy, Challenges, and Future Roadmap [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221914)
 
 
 ## Computer vision domain
@@ -124,7 +124,8 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2023 | C2FMI: Corse-to-Fine Black-box Model Inversion Attack | black-box | TDSC | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148574) |  |
 | 2023 | Boosting Model Inversion Attacks with Adversarial Examples | black-box | TDSC | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148576) |  |
 | 2023 | Reinforcement Learning-Based Black-Box Model Inversion Attacks | black-box | CVPR | [Paper](https://arxiv.org/pdf/2304.04625.pdf) | [code](https://github.com/HanGyojin/RLB-MI) |
-| 2023 | Re-thinking Model Inversion Attacks Against Deep Neural Networks | white-box | CVPR | [Paper](https://arxiv.org/pdf/2304.01669.pdf) | [code](https://github.com/sutd-visual-computing-group/Re-thinking_MI) | -->
+| 2023 | Re-thinking Model Inversion Attacks Against Deep Neural Networks | white-box | CVPR | [Paper](https://arxiv.org/pdf/2304.01669.pdf) | [code](https://github.com/sutd-visual-computing-group/Re-thinking_MI) | 
+-->
 
 | Year | Title                                                        | Adversarial Knowledge | Venue           | Paper Link                                                   | Code Link                                                    |
 | ---- | ------------------------------------------------------------ | --------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -183,7 +184,6 @@ Philosophical Transactions of the Royal Society A 2018. Algorithms that remember
 | 2023 | Re-thinking Model Inversion Attacks Against Deep Neural Networks | white-box | CVPR | [Paper](https://arxiv.org/pdf/2304.01669.pdf) | [code](https://github.com/sutd-visual-computing-group/Re-thinking_MI) |
 | 2023 | Purifier: Defending Data Inference Attacks via Transforming Confidence Scores | black-box (defense) | AAAI | [Paper](https://arxiv.org/pdf/2005.03915.pdf) | - | - |
 | 2023 | Unstoppable Attack: Label-Only Model Inversion via Conditional Diffusion Model | black-box | CCS | [Paper](https://arxiv.org/pdf/2307.08424.pdf) | - | - |
-
 
 <!--
 ### TODO
@@ -542,6 +542,7 @@ ICML 2023 - On Strengthening and Defending Graph Reconstruction Attack with Mark
 | 2022 | Recovering Private Text in Federated Learning of Language Models | white-box | NeurIPS | [paper](https://arxiv.org/pdf/2205.08514.pdf) | [code](https://github.com/princeton-sysml/film) |
 | 2023 | Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence | black-box | ACL | [paper](https://arxiv.org/pdf/2305.03010.pdf) | [code](https://github.com/hkust-knowcomp/geia) |
 | 2023 | Deconstructing Classifiers: Towards A Data Reconstruction Attack Against Text Classification Models | white-box | Arxiv | [Paper](https://arxiv.org/pdf/2306.13789.pdf) |  |
+| 2023 | Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability | black-box | SaTML | [Paper](https://openreview.net/pdf?id=x42Lo6Mkcrf) | - | 
 | 2024 | Do Membership Inference Attacks Work on Large Language Models? | white-box | Arxiv | [Paper](https://arxiv.org/pdf/2402.07841.pdf) |  |
 
 <!-- 
