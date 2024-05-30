@@ -619,7 +619,7 @@ Arxiv 2023 - Deconstructing Classifiers: Towards A Data Reconstruction Attack Ag
 
 2023 - arXiv
 A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data
-[[paper]](https://arxiv.org/abs/2301.)
+[[paper]](https://arxiv.org/pdf/2301.10053)
 
 
 ## Related repositories
