@@ -543,7 +543,10 @@ ICML 2023 - On Strengthening and Defending Graph Reconstruction Attack with Mark
 | 2023 | Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence | black-box | ACL | [paper](https://arxiv.org/pdf/2305.03010.pdf) | [code](https://github.com/hkust-knowcomp/geia) |
 | 2023 | Deconstructing Classifiers: Towards A Data Reconstruction Attack Against Text Classification Models | white-box | Arxiv | [Paper](https://arxiv.org/pdf/2306.13789.pdf) |  |
 | 2023 | Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability | black-box | SaTML | [Paper](https://openreview.net/pdf?id=x42Lo6Mkcrf) | - | 
+| 2023 | Text Embeddings Reveal (Almost) As Much As Text | black-box | EMNLP | [paper](https://arxiv.org/abs/2311.13647) | [code](https://github.com/jxmorris12/vec2text) |
+| 2024 | Extracting Prompts by Inverting LLM Outputs | black-box | arXiv | [paper](https://arxiv.org/pdf/2405.15012) | [code](https://github.com/collinzrj/output2prompt)) |
 | 2024 | Do Membership Inference Attacks Work on Large Language Models? | white-box | Arxiv | [Paper](https://arxiv.org/pdf/2402.07841.pdf) |  |
+| 2024 | Language Model Inversion | black-box | ICLR | [paper](https://arxiv.org/abs/2311.13647) | [code](https://github.com/jxmorris12/vec2text) |
 
 <!-- 
 USENIX Security 2020 - Extracting Training Data from Large Language Models
@@ -617,9 +620,15 @@ Arxiv 2023 - Deconstructing Classifiers: Towards A Data Reconstruction Attack Ag
 2021 - ML and DP.
 [[slides]](https://www.cs.toronto.edu/~toni/Courses/Fairness/Lectures/ML-and-DP-v2.pdf)
 
+2022 - USENIX
+Synthetic Data – Anonymisation Groundhog Day
+[[paper]](https://www.usenix.org/system/files/sec22summer_stadler.pdf)
+[[code]](https://github.com/spring-epfl/synthetic_data_release)
+
 2023 - arXiv
 A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data
 [[paper]](https://arxiv.org/pdf/2301.10053)
+[[code]](https://github.com/synthetic-society/recon-synth)
 
 
 ## Related repositories
