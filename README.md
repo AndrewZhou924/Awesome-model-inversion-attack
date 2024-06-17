@@ -464,6 +464,7 @@ CVPR 2023 - Re-thinking Model Inversion Attacks Against Deep Neural Networks
 | 2022 | Defense against membership inference attack in graph neural networks through graph perturbation | - | IJIS | [Paper](https://link.springer.com/article/10.1007/s10207-022-00646-y) | - |
 | 2022 | Model Inversion Attacks against Graph Neural Networks | - | TKDE | [Paper](https://arxiv.org/pdf/2209.07807.pdf) | - |
 | 2023 | On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation | white-box | ICML |[Paper](https://openreview.net/pdf?id=Vcl3qckVyh) | [Code](https://github.com/tmlr-group/MC-GRA) |
+| 2023 | Model Inversion Attacks on Homogeneous and Heterogeneous Graph Neural Networks | white-box | SecureComm |[Paper](https://arxiv.org/pdf/2310.09800) | - |
 
 <!-- 
 USENIX Security 2020 - Stealing Links from Graph Neural Networks.
