@@ -636,3 +636,6 @@ A Linear Reconstruction Approach for Attribute Inference Attacks against Synthet
 awesome-ml-privacy-attacks
 [[repo]](https://github.com/stratosphereips/awesome-ml-privacy-attacks#reconstruction)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AndrewZhou924/Awesome-model-inversion-attack&type=Date)](https://star-history.com/#AndrewZhou924/Awesome-model-inversion-attack&Date)
