@@ -7,11 +7,7 @@
 
 A curated list of resources for model inversion attack (MIA).
 
-Please star or watch this repository to keep tracking the latest updates! Contributions are welcome!
-
-## NEWS
-
-- **[Nov/2024]** We release a comprehensive survey of model inversion attacks. Check the [paper](https://arxiv.org/pdf/2411.10023).
+Please **STAR** or **WATCH** this repository to keep tracking the latest updates! Contributions are welcome!
 
 **Outlines:**
 
@@ -25,6 +21,11 @@ Please star or watch this repository to keep tracking the latest updates! Contri
 - [Others](#others)
 - [Related repositories](#related-repositories)
 - [Star History](#star-history)
+
+## NEWS
+
+- **[Nov/2024]** We release a comprehensive survey of model inversion attacks. Check out our [paper](https://arxiv.org/pdf/2411.10023).
+
 
 ## What is the model inversion attack?
 
