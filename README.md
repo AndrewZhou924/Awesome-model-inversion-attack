@@ -29,7 +29,7 @@ If you find this repo helpful, please kindly cite our paper. Thank you :)
 
 - [NEWS](#news)
 - [What is the model inversion attack?](#what-is-the-model-inversion-attack)
-- [Related Survey](#related-survey)
+- [Related survey](#related-survey)
 - [Computer vision domain](#computer-vision-domain)
 - [Graph learning domain](#graph-learning-domain)
 - [Natural language processing domain](#natural-language-processing-domain)
@@ -47,7 +47,7 @@ The goal of model inversion attacks is to recreate training data or sensitive at
 
 In model inversion attacks, a malicious user attempts to recover the private dataset used to train a supervised neural network. A successful model inversion attack should generate realistic and diverse samples that accurately describe each of the classes in the private dataset. (Wang et al, 2021.)
 
-## Related Survey
+## Related survey
 
 - [arXiv 2024] Model Inversion Attacks: A Survey of Approaches and Countermeasures. [[paper]](https://arxiv.org/pdf/2411.10023)
 
