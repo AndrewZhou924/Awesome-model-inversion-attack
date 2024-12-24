@@ -10,13 +10,26 @@ Please star or watch this repository to keep tracking the latest updates! Contri
 
 ## NEWS
 
-- **[Nov/2024]** We release a comprehensive survey of model inversion attacks. Check the [paper](https://arxiv.org/pdf/2411.10023).
+- **[Nov/2024]** We release a comprehensive survey of model inversion attacks. Check our paper on [Arxiv](https://arxiv.org/pdf/2411.10023).
 
-**Outlines:**
+### **Citation**
+
+If you find this repo helpful, please kindly cite our paper. Thank you :)
+
+```
+@article{zhou2024model,
+  title={Model Inversion Attacks: A Survey of Approaches and Countermeasures},
+  author={Zhou, Zhanke and Zhu, Jianing and Yu, Fengfei and Li, Xuan and Peng, Xiong and Liu, Tongliang and Han, Bo},
+  journal={arXiv preprint arXiv:2411.10023},
+  year={2024}
+}
+```
+
+### **Outlines of this repo:**
 
 - [NEWS](#news)
 - [What is the model inversion attack?](#what-is-the-model-inversion-attack)
-- [Survey](#survey)
+- [Related Survey](#related-survey)
 - [Computer vision domain](#computer-vision-domain)
 - [Graph learning domain](#graph-learning-domain)
 - [Natural language processing domain](#natural-language-processing-domain)
@@ -34,7 +47,7 @@ The goal of model inversion attacks is to recreate training data or sensitive at
 
 In model inversion attacks, a malicious user attempts to recover the private dataset used to train a supervised neural network. A successful model inversion attack should generate realistic and diverse samples that accurately describe each of the classes in the private dataset. (Wang et al, 2021.)
 
-## Survey
+## Related Survey
 
 - [arXiv 2024] Model Inversion Attacks: A Survey of Approaches and Countermeasures. [[paper]](https://arxiv.org/pdf/2411.10023)
 
