@@ -129,7 +129,7 @@ In model inversion attacks, a malicious user attempts to recover the private dat
 
 - [WPES 2022] (black-box) UnSplit: Data-Oblivious Model Inversion, Model Stealing, and Label Inference Attacks Against Split Learning [[paper]](https://arxiv.org/pdf/2108.09033.pdf) [[code]](https://github.com/ege-erdogan/unsplit)
 
-- [NDSS 2022] (white-box) MIRROR: Model Inversion for Deep Learning Network with High Fidelity [[paper]](https://www.cs.purdue.edu/homes/an93/static/papers/ndss2022_model_inversion.pdf) [[code]](https://github.com/njuaplusplus/mirror)
+- [NDSS 2022] (white-box & black-box) MIRROR: Model Inversion for Deep Learning Network with High Fidelity [[paper]](https://www.cs.purdue.edu/homes/an93/static/papers/ndss2022_model_inversion.pdf) [[code]](https://github.com/njuaplusplus/mirror)
 
 - [SP 2022] (white-box) Reconstructing Training Data with Informed Adversaries [[paper]](https://arxiv.org/abs/2201.04845)
 
