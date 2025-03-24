@@ -14,7 +14,7 @@ Please star or watch this repository to keep tracking the latest updates! Contri
 
 ### **Citation**
 
-If you find this repo helpful, please kindly cite our paper. Thank you :)
+If you find this repo helpful, please kindly cite our [paper](https://arxiv.org/pdf/2411.10023). Thank you :)
 
 ```
 @article{zhou2024model,
