@@ -83,6 +83,8 @@ In model inversion attacks, a malicious user attempts to recover the private dat
 
 - [NDSS 2025] CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling [[paper]](https://arxiv.org/pdf/2501.15718) [[code]](https://github.com/KaiyuanZh/censor) [[project]](https://censor-gradient.github.io/)
 
+- [ICML 2024] (white-box) Sparse Model Inversion: Efficient Inversion of Vision Transformers for Data-Free Applications [[paper]](https://openreview.net/pdf?id=T0lFfO8HaK) [[code]](https://github.com/Egg-Hu/SMI)
+
 - [CVPR 2024] Model Inversion Robustness: Can Transfer Learning Help? [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ho_Model_Inversion_Robustness_Can_Transfer_Learning_Help_CVPR_2024_paper.pdf) [[code]](https://hosytuyen.github.io/projects/TL-DMI)
   
 - [ICLR 2024] Be Careful What You Smooth For: Label Smoothing Can Be a Privacy Shield but Also a Catalyst for Model Inversion Attacks [[paper]](https://arxiv.org/pdf/2310.06549) [[code]](https://github.com/LukasStruppek/Plug-and-Play-Attacks)
