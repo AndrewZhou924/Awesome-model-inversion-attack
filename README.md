@@ -357,7 +357,7 @@ In model inversion attacks, a malicious user attempts to recover the private dat
 - (IBM) Adversarial Robustness Toolbox (ART) [[GitHub]](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 
 ## Attacks against synthetic data
-
+- [arXiv 2025] The DCR Delusion: Measuring the Privacy Risk of Synthetic Data. [[paper]](https://arxiv.org/pdf/2505.01524)
 - [arXiv 2023] A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data [[paper]](https://arxiv.org/pdf/2301.10053) [[code]](https://github.com/synthetic-society/recon-synth)
 - [USENIX 2022] Synthetic Data - Anonymisation of Groundhog Day [[paper]](https://www.usenix.org/system/files/sec22summer_stadler.pdf) [[code]](https://github.com/spring-epfl/synthetic_data_release)
 
