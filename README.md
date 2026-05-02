@@ -288,6 +288,8 @@ In model inversion attacks, a malicious user attempts to recover the private dat
 
 - [NeurIPS 2025] (black-box) Better Language Model Inversion by Compactly Representing Next-Token Distributions [[paper]](https://arxiv.org/abs/2506.17090) [[code]](https://github.com/dill-lab/PILS)
 
+- [arXiv 2025] (black & white-box) Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models [[paper]](https://arxiv.org/abs/2501.18280)
+
 - [ACL 2024] (black-box) Text Embedding Inversion Security for Multilingual Language Models [[paper]](https://arxiv.org/abs/2401.12192) [[code]](https://github.com/siebeniris/multivec2text)
 
 - [ICLR 2024] (black-box) Language Model Inversion [[paper]](https://arxiv.org/abs/2311.13647) [[code]](https://github.com/jxmorris12/vec2text)
