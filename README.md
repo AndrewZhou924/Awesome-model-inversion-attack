@@ -5,6 +5,7 @@
     <a href="https://arxiv.org/abs/2411.10023"><img src="https://img.shields.io/badge/arXiv-2411.10023-b31b1b" alt="arXiv"></a>
     <img src="https://img.shields.io/github/stars/AndrewZhou924/Awesome-model-inversion-attack?color=yellow&label=Star" alt="Stars" >
 </p>
+
 A curated, cross-domain collection of research on **model inversion attacks (MIAs)**, defenses, evaluation, and closely related data-reconstruction problems.
 
 Please star or watch this repository to keep tracking the latest updates! Contributions are welcome!
