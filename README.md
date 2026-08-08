@@ -2,18 +2,30 @@
 <p align="center">
     <a href="https://github.com/AndrewZhou924/Awesome-model-inversion-attack/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-green" alt="PRs"></a>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
+    <a href="https://arxiv.org/abs/2411.10023"><img src="https://img.shields.io/badge/arXiv-2411.10023-b31b1b" alt="arXiv"></a>
     <img src="https://img.shields.io/github/stars/AndrewZhou924/Awesome-model-inversion-attack?color=yellow&label=Star" alt="Stars" >
 </p>
 A curated, cross-domain collection of research on **model inversion attacks (MIAs)**, defenses, evaluation, and closely related data-reconstruction problems.
 
 Please star or watch this repository to keep tracking the latest updates! Contributions are welcome!
 
+<a id="our-survey-model-inversion-attacks-a-survey-of-approaches-and-countermeasures"></a>
+
+> [!IMPORTANT]
+> ### Our survey: Model Inversion Attacks: A Survey of Approaches and Countermeasures
+>
+> **Zhanke Zhou, Jianing Zhu, Fengfei Yu, Xuan Li, Xiong Peng, Tongliang Liu, and Bo Han**
+>
+> Our survey provides a unified view of model inversion across **image, text, and graph data**, covering attack principles, threat models, defenses, datasets, evaluation metrics, practical deployment, and emerging foundation-model settings.
+>
+> **[Read the paper](https://arxiv.org/abs/2411.10023)** · **[Download PDF](https://arxiv.org/pdf/2411.10023)** · **[Jump to BibTeX](#citation)**
+
 > [!NOTE]
 > We distinguish post-training model inversion from gradient inversion, training-data extraction, and other adjacent reconstruction problems. See [Scope and labels](#scope-and-labels).
 
 ## News
 
-- **[Aug/2026]** We refreshed the repository with recent work on foundation models and VLMs, diffusion priors, collaborative/split inference, defenses, and evaluation. See the new [2024–2026 paper index](papers/2024-2026.md).
+- **[Aug/2026]** We refreshed the repository with recent work on foundation models and VLMs, diffusion priors, collaborative/split inference, defenses, and evaluation. See [Recent papers (2024–2026)](#recent-papers-20242026).
 - **[Nov/2024]** We released our survey, *Model Inversion Attacks: A Survey of Approaches and Countermeasures*. [[arXiv]](https://arxiv.org/abs/2411.10023)
 
 ## Citation
@@ -32,13 +44,14 @@ If you find this repository helpful, please cite our [survey](https://arxiv.org/
 ## Navigation
 
 - [Scope and labels](#scope-and-labels)
-- [Recent paper index (2024–2026)](papers/2024-2026.md)
+- [Our survey](#our-survey-model-inversion-attacks-a-survey-of-approaches-and-countermeasures)
+- [Recent papers (2024–2026)](#recent-papers-20242026)
 - [Surveys and benchmarks](#surveys-and-benchmarks)
 - [Computer vision domain](#computer-vision-domain)
 - [Graph learning domain](#graph-learning-domain)
 - [Natural language processing domain](#natural-language-processing-domain)
 - [Tools](#tools)
-- [Contributing](CONTRIBUTING.md)
+- [Contributing](#contributing)
 - [Others](#others)
 - [Related repositories](#related-repositories)
 - [Star History](#star-history)
@@ -56,21 +69,10 @@ Each new entry should make the threat model explicit:
 
 We list gradient inversion, federated-learning reconstruction, training-data extraction, and inversion for interpretability as **adjacent reconstruction** when they do not match the post-training MIA threat model.
 
-## Recent paper index (2024–2026)
-
-The cross-cutting index is maintained in [`papers/2024-2026.md`](papers/2024-2026.md). It covers:
-
-- foundation models and VLMs;
-- diffusion-prior attacks;
-- collaborative and split inference;
-- image, text, embedding, graph, and 3D inversion;
-- defenses, benchmarks, and evaluation;
-- adjacent reconstruction problems kept separate from classical MIAs.
-
 ## Surveys and benchmarks
 
+- ⭐ **[Our survey, arXiv 2024] [Model Inversion Attacks: A Survey of Approaches and Countermeasures](https://arxiv.org/abs/2411.10023).** A unified cross-domain survey of attacks, defenses, evaluation, deployment considerations, and open problems across image, text, and graph data.
 - [2025, Artificial Intelligence Review] **Deep Learning Model Inversion Attacks and Defenses: A Comprehensive Survey.** [[paper]](https://doi.org/10.1007/s10462-025-11248-0)
-- [2024, arXiv] **Model Inversion Attacks: A Survey of Approaches and Countermeasures.** [[paper]](https://arxiv.org/abs/2411.10023)
 - [2024, arXiv] **Privacy Leakage on DNNs: A Survey of Model Inversion Attacks and Defenses.** [[paper]](https://arxiv.org/abs/2402.04013) [[toolbox]](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox)
 - [2024, arXiv preprint] **MIBench: A Comprehensive Benchmark for Model Inversion Attack and Defense.** [[paper]](https://arxiv.org/abs/2410.05159)
 - [2023, IEEE CSF] **SoK: Model Inversion Attack Landscape: Taxonomy, Challenges, and Future Roadmap.** [[paper]](https://doi.org/10.1109/CSF57540.2023.00017)
@@ -78,12 +80,118 @@ The cross-cutting index is maintained in [`papers/2024-2026.md`](papers/2024-202
 
 Broader privacy, trustworthy-ML, and gradient-inversion surveys are retained in the domain lists below when useful, but are not presented as MIA-specific surveys.
 
+## Recent papers (2024–2026)
+
+This status-checked index highlights recent work that cuts across the historical image/text/graph organization below. Publication status was checked on **8 August 2026**.
+
+Status labels: **peer-reviewed**, **accepted**, **preprint**, and **withdrawn submission**.
+
+<details>
+<summary><b>Show the 2024–2026 paper index</b></summary>
+
+### Surveys, benchmarks, and evaluation
+
+| Paper | Year / venue / status | Focus | Main contribution |
+|---|---|---|---|
+| ⭐ [Model Inversion Attacks: A Survey of Approaches and Countermeasures](https://arxiv.org/abs/2411.10023) | 2024, arXiv, **our survey** | Cross-domain survey | Unifies image, text, and graph MIAs with attacks, defenses, evaluation, deployment considerations, and an evolving repository. |
+| [Privacy Leakage on DNNs: A Survey of Model Inversion Attacks and Defenses](https://arxiv.org/abs/2402.04013) | 2024, arXiv, **preprint** | Survey/toolbox | Cross-domain survey with an open-source MIA toolbox. |
+| [Deep Learning Model Inversion Attacks and Defenses: A Comprehensive Survey](https://doi.org/10.1007/s10462-025-11248-0) | 2025, Artificial Intelligence Review 58:242, **peer-reviewed** | Survey | Reviews attacks, defenses, applications, datasets, metrics, and open problems. |
+| [MIBench: A Comprehensive Benchmark for Model Inversion Attack and Defense](https://arxiv.org/abs/2410.05159) | 2024, arXiv, **preprint** | Benchmark/toolbox | Implements 16 attacks/defenses and nine evaluation protocols; the ICLR submission was withdrawn. |
+| [Revisiting Model Inversion Evaluation: From Misleading Standards to Reliable Privacy Assessment](https://openaccess.thecvf.com/content/CVPR2026F/html/Ho_Revisiting_Model_Inversion_Evaluation_From_Misleading_Standards_to_Reliable_Privacy_CVPRF_2026_paper.html) | 2026, CVPR Findings, **peer-reviewed** | Evaluation | Identifies false positives caused by evaluation classifiers and proposes MLLM-based assessment. |
+| [An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline](https://arxiv.org/abs/2509.04214) | 2025, arXiv, **preprint** | Practical assessment | Automates visual leakage assessment with four risk dimensions. |
+
+### Image, 3D, and diffusion-prior attacks
+
+| Paper | Year / venue / status | Access / prior | Main contribution |
+|---|---|---|---|
+| [A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4642_ECCV_2024_paper.php) | 2024, ECCV, **peer-reviewed** | White-box; GAN intermediate features | IF-GMI searches intermediate generator features under an L1-ball constraint. |
+| [Prediction Exposes Your Face: Black-box Model Inversion via Prediction Alignment](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5316_ECCV_2024_paper.php) | 2024, ECCV, **peer-reviewed** | Black-box prediction vectors; StyleGAN | P2I directly aligns prediction vectors with StyleGAN W+ to reduce queries. |
+| [Pseudo-Private Data Guided Model Inversion Attacks](https://openreview.net/forum?id=pyqPUf36D2) | 2024, NeurIPS, **peer-reviewed** | White-box; public and pseudo-private images | Iteratively improves a generative prior with earlier reconstructions. |
+| [Model Inversion Attacks Through Target-Specific Conditional Diffusion Models](https://arxiv.org/abs/2407.11424) | 2024, arXiv, **preprint** | Target-specific conditional diffusion | Diff-MI learns a diffusion prior guided by target predictions. |
+| [Single-Step Diffusion Model-Based Generative Model Inversion Attacks](https://openreview.net/forum?id=TvhEoz1nim) | 2025, ICLR submission, **withdrawn submission** | Distilled diffusion prior; classifier/CLIP | Replaces GAN priors with a single-step diffusion generator and studies CLIP leakage. |
+| [From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Li_From_Head_to_Tail_Efficient_Black-box_Model_Inversion_Attack_via_CVPR_2025_paper.html) | 2025, CVPR, **peer-reviewed** | Confidence scores; surrogate and generator | SMILE combines long-tailed surrogate training with query-efficient derivative-free search. |
+| [MEDUSA: Medical Data Under Shadow Attacks via Hybrid Model Inversion](https://proceedings.mlr.press/v258/azhar25a.html) | 2025, AISTATS, **peer-reviewed** | Gray-box; shadow model | Hybrid optimization and learned reconstruction for medical images. |
+| [ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration](https://openreview.net/forum?id=I4iZmsV4HM) | 2025, ICLR, **peer-reviewed** | 3D feature interface | Reconstructs voxelized point clouds using occupancy and dispersion objectives. |
+| [Diffusion-Driven Universal Model Inversion Attack for Face Recognition](https://arxiv.org/abs/2504.18015) | 2025, arXiv, **preprint** | Face embeddings; fixed diffusion prior | Uses a reusable unconditional diffusion model without target-specific generator training. |
+| [Model Inversion Attack Against Deep Hashing](https://arxiv.org/abs/2511.12233) | 2025, arXiv, **preprint** | Black-box deep hashing; diffusion | Reconstructs retrieval images without private training hash codes. |
+
+### Foundation models and vision-language models
+
+| Paper | Year / venue / status | Exposed interface | Main contribution |
+|---|---|---|---|
+| [Do Vision-Language Models Leak What They Learn? Adaptive Token-Weighted Model Inversion Attacks](https://openaccess.thecvf.com/content/CVPR2026/html/Nguyen_Do_Vision-Language_Models_Leak_What_They_Learn_Adaptive_Token-Weighted_Model_CVPR_2026_paper.html) | 2026, CVPR, **peer-reviewed** | VLM tokens and generated responses | Introduces token/sequence MIAs and SMI-AW for private visual training data. |
+| [Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI](https://www.usenix.org/conference/usenixsecurity25/presentation/ye-attacks) | 2025, USENIX Security, **peer-reviewed** | Black-box target; generative-AI prior | Studies data-free model extraction, membership inference, and model inversion. |
+| [DRAG: Data Reconstruction Attack using Guided Diffusion](https://openreview.net/forum?id=z6GEZ2ogct) | 2025, ICML, **peer-reviewed** | CLIP/DINOv2 intermediate features | Uses guided latent diffusion to reconstruct inputs from deep foundation-model features. |
+
+The single-step diffusion work listed in the preceding section also evaluates privacy leakage in CLIP.
+
+### Collaborative and split inference
+
+| Paper | Year / venue / status | Setting | Main contribution |
+|---|---|---|---|
+| [PATROL: Privacy-Oriented Pruning for Collaborative Inference Against Model Inversion Attacks](https://openaccess.thecvf.com/content/WACV2024/papers/Ding_PATROL_Privacy-Oriented_Pruning_for_Collaborative_Inference_Against_Model_Inversion_Attacks_WACV_2024_paper.pdf) | 2024, WACV, **peer-reviewed** | Collaborative inference defense | Privacy-aware pruning for resource-constrained edge deployment. |
+| [A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning](https://arxiv.org/abs/2405.04115) | 2024, arXiv, **preprint** | Passive split-learning server | FORA transfers representation preferences from public auxiliary data. |
+| [Theoretical Insights in Model Inversion Robustness and Conditional Entropy Maximization for Collaborative Inference Systems](https://openaccess.thecvf.com/content/CVPR2025/html/Xia_Theoretical_Insights_in_Model_Inversion_Robustness_and_Conditional_Entropy_Maximization_CVPR_2025_paper.html) | 2025, CVPR, **peer-reviewed** | Split-inference defense | Relates conditional entropy to reconstruction error and proposes CEM. |
+| [Revisiting the Privacy Risks of Split Inference: A GAN-Based Data Reconstruction Attack via Progressive Feature Optimization](https://arxiv.org/abs/2508.20613) | 2025, arXiv, **preprint** | Split inference; StyleGAN | Progressive feature optimization improves deep-cut and OOD reconstruction. |
+| [Ensembler: Protect Collaborative Inference Privacy from Model Inversion Attack via Selective Ensemble](https://doi.org/10.1109/DAC63849.2025.11132673) | 2025, DAC, **peer-reviewed** | Collaborative-inference defense | Selective ensembles confuse server-side reconstruction with low inference overhead. |
+| [What Your Features Reveal: Data-Efficient Black-Box Feature Inversion Attack for Split DNNs](https://openaccess.thecvf.com/content/CVPR2026/papers/Ren_What_Your_Features_Reveal_Data-Efficient_Black-Box_Feature_Inversion_Attack_for_CVPR_2026_paper.pdf) | 2026, CVPR, **peer-reviewed** | Black-box feature interface | FIA-Flow learns from few image-feature pairs and performs one-step reconstruction. |
+| [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/abs/2503.09022) | 2025, arXiv, **preprint** | LLM inter-layer activations | Reconstructs prompts transmitted in collaborative LLM inference. |
+
+### Defenses
+
+| Paper | Year / venue / status | Defense axis | Main contribution |
+|---|---|---|---|
+| [On the Vulnerability of Skip Connections to Model Inversion Attacks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10529.pdf) | 2024, ECCV, **peer-reviewed** | Architecture | Shows skip connections amplify leakage and proposes MI-resilient designs. |
+| [Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10339_ECCV_2024_paper.php) | 2024, ECCV, **peer-reviewed** | Architecture | Uses sparse-coding layers to limit irrelevant private information. |
+| [Trap-MID: Trapdoor-based Defense against Model Inversion Attacks](https://openreview.net/forum?id=GNhrGRCerd) | 2024, NeurIPS, **peer-reviewed** | Misdirection/trapdoor | Makes inversion recover a trapdoor trigger instead of private samples. |
+| [Defending against Model Inversion Attacks via Random Erasing](https://arxiv.org/abs/2409.01062) | 2024, arXiv, **preprint** | Data-centric training | Random erasing reduces recoverable visual detail while retaining task utility. |
+| [Stealthy Shield Defense: A Conditional Mutual Information-Based Approach against Black-Box Model Inversion Attacks](https://openreview.net/forum?id=p0DjhjPXl3) | 2025, ICLR, **peer-reviewed** | Output post-processing | Reduces conditional mutual information without retraining the target model. |
+| [Rank Matters: Understanding and Defending Model Inversion Attacks via Low-Rank Feature Filtering](https://doi.org/10.1145/3770854.3780328) | 2026, KDD, **peer-reviewed** | Low-rank feature filtering | Final version of the work previously titled CALoR; combines confidence adaptation and low-rank filtering. |
+| [Model Inversion Attacks Meet Cryptographic Fuzzy Extractors](https://arxiv.org/abs/2510.25687) | 2025, arXiv, **preprint** | Cryptographic biometric defense | Studies inversion against fuzzy extractors and proposes L2FE-Hash. |
+
+### Text and embedding inversion
+
+| Paper | Year / venue / status | Interface | Main contribution |
+|---|---|---|---|
+| [An Inversion Attack Against Obfuscated Embedding Matrix in Language Model Inference](https://aclanthology.org/2024.emnlp-main.126/) | 2024, EMNLP, **peer-reviewed** | Obfuscated embedding matrix | Recovers text from glide-reflection-obfuscated embeddings. |
+| [ALGEN: Few-shot Inversion Attacks on Textual Embeddings via Cross-Model Alignment and Generation](https://aclanthology.org/2025.acl-long.1185/) | 2025, ACL, **peer-reviewed** | Few-shot black-box embeddings | Cross-model alignment enables inversion with few paired samples. |
+| [ObfusLM: Privacy-preserving Language Model Service against Embedding Inversion Attacks](https://aclanthology.org/2025.acl-long.58/) | 2025, ACL, **peer-reviewed** | Embedding-service defense | Obfuscates embeddings for both classification and generation services. |
+| [PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration](https://aclanthology.org/2025.acl-long.532/) | 2025, ACL, **peer-reviewed** | LLM inference defense | Removes private spans client-side and restores task information through privacy-aware vectors. |
+| [Towards Privacy-Preserving Large Language Model: Text-free Inference Through Alignment and Adaptation](https://aclanthology.org/2026.acl-long.1191/) | 2026, ACL, **peer-reviewed** | Noisy pooled embeddings | PPFT protects inference and private-domain fine-tuning without sending raw text. |
+
+### Graph reconstruction
+
+| Paper | Year / venue / status | Interface | Main contribution |
+|---|---|---|---|
+| [ReconXF: Graph Reconstruction Attack via Public Feature Explanations on Privatized Node Features and Labels](https://arxiv.org/abs/2506.02134) | 2025, arXiv, **preprint** | Feature explanations and privatized attributes | Denoises auxiliary node information and reconstructs graph topology. |
+| [GraphToxin: Reconstructing Full Unlearned Graphs from Graph Unlearning](https://arxiv.org/abs/2511.10936) | 2025, arXiv, **preprint** | Graph-unlearning residue | Reconstructs deleted nodes, edges, and neighborhoods; adjacent to classical MIA. |
+
+### Adjacent reconstruction problems
+
+These papers are useful context but should not be presented as classical post-training MIAs without qualification.
+
+| Paper | Year / venue / status | Why adjacent |
+|---|---|---|
+| [GRAIN: Exact Graph Reconstruction from Gradients](https://proceedings.iclr.cc/paper_files/paper/2025/hash/b88ccd2117cf61258e868a84145c94ca-Abstract-Conference.html) | 2025, ICLR, **peer-reviewed** | Reconstructs graph structure and features from shared training gradients. |
+| [TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/CVPR2026/html/Xiang_TINA_Text-Free_Inversion_Attack_for_Unlearned_Text-to-Image_Diffusion_Models_CVPR_2026_paper.html) | 2026, CVPR, **peer-reviewed** | Attacks concept erasure rather than private classifier training data. |
+| [MIMIC: Multimodal Inversion for Model Interpretation and Conceptualization](https://arxiv.org/abs/2508.07833) | 2025, arXiv, **preprint** | Representation inversion for interpretation rather than a privacy attack. |
+| [Implicit Inversion Turns CLIP into a Decoder](https://openreview.net/forum?id=hvukI2ws5O) | 2025, OpenReview | Representation decoding/generation rather than private-data reconstruction. |
+
+### Maintenance notes
+
+- Merge preprint and final versions into one lineage. In particular, arXiv:2410.05814 (CALoR) became the KDD 2026 paper *Rank Matters*.
+- Do not label MIBench as an ICLR publication; it remains an arXiv preprint and its ICLR submission was withdrawn.
+- Do not label *Single-Step Diffusion Model-Based Generative Model Inversion Attacks* as an accepted ICLR 2025 paper.
+- Distinguish diffusion models used as attack priors from diffusion models that are themselves the attack target.
+
+</details>
+
 ## Computer vision domain
 
 <details>
 <summary><b>Show the complete computer-vision list</b></summary>
 
-The entries below preserve the historical collection. For a status-checked cross-cutting view of recent work, use the [2024–2026 index](papers/2024-2026.md).
+The entries below preserve the historical collection. For a status-checked cross-cutting view of recent work, use the [2024–2026 index](#recent-papers-20242026).
 
 - [NDSS 2025] CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling [[paper]](https://arxiv.org/pdf/2501.15718) [[code]](https://github.com/KaiyuanZh/censor) [[project]](https://censor-gradient.github.io/)
 
@@ -296,7 +404,7 @@ The entries below include both post-training graph inversion and adjacent graph-
 <details>
 <summary><b>Show the complete NLP list</b></summary>
 
-This historical list includes embedding inversion, prompt inversion, memorization, and adjacent training-data extraction. The [2024–2026 index](papers/2024-2026.md) separates these interfaces and statuses.
+This historical list includes embedding inversion, prompt inversion, memorization, and adjacent training-data extraction. The [2024–2026 index](#recent-papers-20242026) separates these interfaces and statuses.
 
 - [NeurIPS 2025] (black-box) Better Language Model Inversion by Compactly Representing Next-Token Distributions [[paper]](https://arxiv.org/abs/2506.17090) [[code]](https://github.com/dill-lab/PILS)
 
@@ -382,6 +490,26 @@ This historical list includes embedding inversion, prompt inversion, memorizatio
 - [Blog 2020] Uncovering a model's secrets [[blog1]](https://gab41.lab41.org/uncovering-a-models-secrets-model-inversion-part-i-ce460eab93d6) [[blog2]](https://gab41.lab41.org/robust-or-private-model-inversion-part-ii-94d54fd8d4a5)
 - [Blog 2020] Attacks against Machine Learning Privacy (Part 1): Model Inversion Attacks with the IBM-ART Framework [[blog]](https://franziska-boenisch.de/posts/2020/12/model-inversion/)
 - [Slides 2020] ML and DP [[slides]](https://www.cs.toronto.edu/~toni/Courses/Fairness/Lectures/ML-and-DP-v2.pdf)
+
+## Contributing
+
+Contributions are welcome through pull requests or issues. Please use official publisher, proceedings, OpenReview, ACL Anthology, PMLR, CVF/ECVA, USENIX, DOI, or arXiv links whenever possible.
+
+Suggested entry format:
+
+```text
+Year | Paper | Domain | Target/observable | Access | Auxiliary data/prior |
+Attack or defense | Venue/status | Paper URL | Code URL (optional)
+```
+
+Before submitting an entry:
+
+1. Search this README for duplicate titles and earlier versions.
+2. Merge a preprint and its final version into one lineage.
+3. Verify the authors, exact title, venue, year, pages, DOI, URL, and current publication status.
+4. State the exposed interface and recovered target instead of using only “white-box” or “black-box”.
+5. Label gradient inversion, training-data extraction, interpretability-oriented inversion, and unlearning/concept-erasure inversion as **adjacent reconstruction** unless the paper studies the classical MIA threat model.
+6. Add at most one original sentence describing the contribution; do not copy the abstract.
 
 ## Related repositories
 
