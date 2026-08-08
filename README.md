@@ -524,4 +524,5 @@ Before submitting an entry:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AndrewZhou924/Awesome-model-inversion-attack&type=Date)](https://star-history.com/#AndrewZhou924/Awesome-model-inversion-attack&Date)
+[![GitHub Stars](https://img.shields.io/github/stars/AndrewZhou924/Awesome-model-inversion-attack?style=for-the-badge&logo=github&label=Stars)](https://github.com/AndrewZhou924/Awesome-model-inversion-attack/stargazers)
+[![View Interactive Star History](https://img.shields.io/badge/View-Interactive%20Star%20History-0969da?style=for-the-badge)](https://www.star-history.com/#AndrewZhou924/Awesome-model-inversion-attack&Date)
