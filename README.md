@@ -491,6 +491,12 @@ This historical list includes embedding inversion, prompt inversion, memorizatio
 - [Blog 2020] Attacks against Machine Learning Privacy (Part 1): Model Inversion Attacks with the IBM-ART Framework [[blog]](https://franziska-boenisch.de/posts/2020/12/model-inversion/)
 - [Slides 2020] ML and DP [[slides]](https://www.cs.toronto.edu/~toni/Courses/Fairness/Lectures/ML-and-DP-v2.pdf)
 
+### Related representation-space attacks (not model inversion)
+
+These papers affect interfaces also studied by model inversion research, but do not reconstruct private training information and are therefore listed separately.
+
+- [arXiv 2025] (black- and white-box) **Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models.** Exploits embedding-distribution bias to find universal suffixes that manipulate cosine similarity and bypass embedding-based safeguards. [[paper]](https://arxiv.org/abs/2501.18280)
+
 ## Contributing
 
 Contributions are welcome through pull requests or issues. Please use official publisher, proceedings, OpenReview, ACL Anthology, PMLR, CVF/ECVA, USENIX, DOI, or arXiv links whenever possible.
