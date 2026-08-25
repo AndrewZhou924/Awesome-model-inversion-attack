@@ -26,8 +26,7 @@ Please star or watch this repository to keep tracking the latest updates! Contri
 
 ## News
 
-- **[Aug/2026]** Synced the 2024–2026 index with the survey's revised reference list: ten works added, and the DiffMI entry updated to its published IEEE TIFS version.
-- **[Aug/2026]** We refreshed the repository with recent work on foundation models and VLMs, diffusion priors, collaborative/split inference, defenses, and evaluation. See [Recent papers (2024–2026)](#recent-papers-20242026).
+- **[Aug/2026]** We expanded the repository with recent work on foundation models and VLMs, diffusion priors, collaborative/split inference, defenses, and evaluation. See [Recent papers (2024–2026)](#recent-papers-20242026). [[arXiv]](https://arxiv.org/abs/2411.10023)
 - **[Nov/2024]** We released our survey, *Model Inversion Attacks: A Survey of Approaches and Countermeasures*. [[arXiv]](https://arxiv.org/abs/2411.10023)
 
 ## Citation
